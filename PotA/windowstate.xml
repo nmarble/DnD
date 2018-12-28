@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.3">
+	<window data="" class="library" pos="610,265,1310,815" />
+	<window data="" class="lightingselection" pos="877,310,1042,770" />
+	<window data="" class="moduleselection" pos="610,275,1310,805" />
+	<window data="" class="pointerselection" pos="817,407,1102,672" />
+	<window data="" class="tokenbag" pos="1214,348,1614,748" />
+	<window data="battle" class="masterindex" pos="735,290,1185,790" />
+	<window data="combattracker" class="combattracker_host" pos="455,56,1105,556" />
+	<window data="encounter" class="masterindex" pos="812,320,1262,820" />
+	<window data="image" class="masterindex" pos="735,290,1185,790" />
+	<window data="image.id-00008@FG Battle Maps" class="imagewindow" pos="368,16,1618,1096" />
+	<window data="image.id-00020@FG Battle Maps" class="imagewindow" pos="345,-38,1595,1042" />
+	<window data="image.id-00021@FG Battle Maps" class="imagewindow" pos="335,0,1585,1080" />
+	<window data="image.id-00024@FG Battle Maps" class="imagewindow" pos="335,0,1585,1080" />
+	<window data="image.id-00035@FG Battle Maps" class="imagewindow" pos="335,0,1585,1080" />
+	<window data="image.id-00044@FG Battle Maps" class="imagewindow" pos="335,0,1585,1080" />
+	<window data="npc" class="masterindex" pos="735,290,1185,790" />
+	<window data="partysheet" class="partysheet_host" pos="560,290,1360,790" />
+	<window data="randomdata" class="fgrandom" pos="410,90,935,701" />
+	<window data="reference.imagedata.img_clericstuff_jpg@DD PHB Deluxe" class="imagewindow" pos="516,141,1403,903" />
+	<window data="reference.imagedata.img_intro_jpg@DD PHB Deluxe" class="imagewindow" pos="660,80,1260,964" />
+	<window data="reference.imagedata.img_paladin_jpg@DD PHB Deluxe" class="imagewindow" pos="597,80,1322,964" />
+	<window data="reference.imagedata.img_part3_5_jpg@DD PHB Deluxe" class="imagewindow" pos="643,80,1276,964" />
+	<window data="reference.imagedata.img_wizard2_jpg@DD PHB Deluxe" class="imagewindow" pos="654,80,1265,964" />
+	<window data="reference.npcdata.aboleth@DD5E SRD Bestiary" class="npc" pos="1206,299,1666,849" />
+	<window data="reference.npcdata.adultblackdragon@DD5E SRD Bestiary" class="npc" pos="969,225,1429,775" />
+	<window data="storytemplate" class="masterindex" pos="735,290,1185,790" />
+	<window data="tables" class="masterindex" pos="735,290,1185,790" />
+	<window data="treasureparcels" class="masterindex" pos="735,290,1185,790" />
+
+</windowstate>

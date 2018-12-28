@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.2" release="7|CoreRPG:3">
+	<battle>
+		<id-00001>
+			<cr type="string">17</cr>
+			<exp type="number">15520</exp>
+			<generated type="number">0</generated>
+			<locked type="number">0</locked>
+			<name type="string">TestEncounter</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>reference.npcdata.awakenedshrub@DD Basic Rules - DM</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Awakened Shrub</name>
+					<token type="token">tokens/Medium/a.png@Letter Tokens</token>
+				</id-00001>
+				<id-00002>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>reference.npcdata.brownbear@DD PHB Deluxe</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Brown Bear</name>
+					<token type="token">tokens/Medium/b.png@Letter Tokens</token>
+				</id-00002>
+				<id-00003>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>reference.npcdata.lizard@DD5E SRD Bestiary</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Lizard</name>
+					<token type="token">tokens/Medium/l.png@Letter Tokens</token>
+				</id-00003>
+				<id-00004>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>reference.npcdata.mammoth@DD Basic Rules - DM</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Mammoth</name>
+					<token type="token">tokens/Medium/m.png@Letter Tokens</token>
+				</id-00004>
+				<id-00005>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>reference.npcdata.mummylord@DD5E SRD Bestiary</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class></class>
+								<recordname></recordname>
+							</imageref>
+							<imagex type="number">0</imagex>
+							<imagey type="number">0</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Mummy Lord</name>
+					<token type="token">tokens/mummylord.png@DD5E SRD Bestiary</token>
+				</id-00005>
+			</npclist>
+		</id-00001>
+		<id-00002>
+			<cr type="string">1/2</cr>
+			<exp type="number">100</exp>
+			<name type="string">scout</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>reference.npcdata.scout@DD5E SRD Bestiary</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class>imagewindow</class>
+								<recordname>image.id-00003.image</recordname>
+							</imageref>
+							<imagex type="number">479</imagex>
+							<imagey type="number">270</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Scout</name>
+					<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				</id-00001>
+			</npclist>
+		</id-00002>
+		<id-00003>
+			<cr type="string">1/2</cr>
+			<exp type="number">100</exp>
+			<locked type="number">1</locked>
+			<name type="string">scout</name>
+			<npclist>
+				<id-00001>
+					<count type="number">1</count>
+					<link type="windowreference">
+						<class>npc</class>
+						<recordname>reference.npcdata.scout@DD5E SRD Bestiary</recordname>
+					</link>
+					<maplink>
+						<id-00001>
+							<imageref type="windowreference">
+								<class>imagewindow</class>
+								<recordname>image.id-00003.image</recordname>
+							</imageref>
+							<imagex type="number">479</imagex>
+							<imagey type="number">270</imagey>
+						</id-00001>
+					</maplink>
+					<name type="string">Scout</name>
+					<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				</id-00001>
+			</npclist>
+		</id-00003>
+	</battle>
+	<battlerandom>
+		<id-00001>
+			<name type="string">Random Test</name>
+			<npclist>
+			</npclist>
+		</id-00001>
+	</battlerandom>
+	<calendar>
+		<public />
+	</calendar>
+	<charsheet>
+		<id-00001>
+			<holder name="test" owner="true" />
+			<abilities>
+				<holder name="test" owner="true" />
+				<charisma>
+					<holder name="test" owner="true" />
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<holder name="test" owner="true" />
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<holder name="test" owner="true" />
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<holder name="test" owner="true" />
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<holder name="test" owner="true" />
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<holder name="test" owner="true" />
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<backgroundlink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</backgroundlink>
+			<classes>
+				<holder name="test" owner="true" />
+			</classes>
+			<coins>
+				<holder name="test" owner="true" />
+				<slot1>
+					<holder name="test" owner="true" />
+				</slot1>
+				<slot2>
+					<holder name="test" owner="true" />
+				</slot2>
+				<slot3>
+					<holder name="test" owner="true" />
+				</slot3>
+				<slot4>
+					<holder name="test" owner="true" />
+				</slot4>
+				<slot5>
+					<holder name="test" owner="true" />
+				</slot5>
+				<slot6>
+					<holder name="test" owner="true" />
+				</slot6>
+			</coins>
+			<defenses>
+				<holder name="test" owner="true" />
+				<ac>
+					<holder name="test" owner="true" />
+					<armor type="number">0</armor>
+					<misc type="number">0</misc>
+					<prof type="number">1</prof>
+					<shield type="number">0</shield>
+					<temporary type="number">0</temporary>
+					<total type="number">10</total>
+				</ac>
+			</defenses>
+			<encumbrance>
+				<holder name="test" owner="true" />
+				<encumbered type="number">50</encumbered>
+				<encumberedheavy type="number">100</encumberedheavy>
+				<liftpushdrag type="number">300</liftpushdrag>
+				<load type="number">8</load>
+				<max type="number">150</max>
+			</encumbrance>
+			<featlist>
+				<holder name="test" owner="true" />
+			</featlist>
+			<featurelist>
+				<holder name="test" owner="true" />
+			</featurelist>
+			<hp>
+				<holder name="test" owner="true" />
+				<deathsavefail type="number">3</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<temporary type="number">0</temporary>
+				<total type="number">10</total>
+				<wounds type="number">10</wounds>
+			</hp>
+			<initiative>
+				<holder name="test" owner="true" />
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</initiative>
+			<inventorylist>
+				<holder name="test" owner="true" />
+				<id-00001>
+					<holder name="test" owner="true" />
+					<carried type="number">2</carried>
+					<cost type="string">1 sp</cost>
+					<count type="number">1</count>
+					<damage type="string">1d4 bludgeoning</damage>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Club</name>
+					<properties type="string">Light</properties>
+					<subtype type="string">Simple Melee Weapons</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">2</weight>
+				</id-00001>
+				<id-00002>
+					<holder name="test" owner="true" />
+					<carried type="number">2</carried>
+					<cost type="string">20 gp</cost>
+					<count type="number">1</count>
+					<damage type="string">1d10 slashing</damage>
+					<isidentified type="number">1</isidentified>
+					<locked type="number">1</locked>
+					<name type="string">Glaive</name>
+					<properties type="string">Heavy, reach, two-handed</properties>
+					<subtype type="string">Martial Weapons</subtype>
+					<type type="string">Weapon</type>
+					<weight type="number">6</weight>
+				</id-00002>
+			</inventorylist>
+			<languagelist>
+				<holder name="test" owner="true" />
+			</languagelist>
+			<level type="number">0</level>
+			<name type="string">asdasd</name>
+			<perception type="number">10</perception>
+			<perceptionmodifier type="number">0</perceptionmodifier>
+			<powermeta>
+				<holder name="test" owner="true" />
+				<pactmagicslots1>
+					<holder name="test" owner="true" />
+				</pactmagicslots1>
+				<pactmagicslots2>
+					<holder name="test" owner="true" />
+				</pactmagicslots2>
+				<pactmagicslots3>
+					<holder name="test" owner="true" />
+				</pactmagicslots3>
+				<pactmagicslots4>
+					<holder name="test" owner="true" />
+				</pactmagicslots4>
+				<pactmagicslots5>
+					<holder name="test" owner="true" />
+				</pactmagicslots5>
+				<pactmagicslots6>
+					<holder name="test" owner="true" />
+				</pactmagicslots6>
+				<pactmagicslots7>
+					<holder name="test" owner="true" />
+				</pactmagicslots7>
+				<pactmagicslots8>
+					<holder name="test" owner="true" />
+				</pactmagicslots8>
+				<pactmagicslots9>
+					<holder name="test" owner="true" />
+				</pactmagicslots9>
+				<spellslots1>
+					<holder name="test" owner="true" />
+				</spellslots1>
+				<spellslots2>
+					<holder name="test" owner="true" />
+				</spellslots2>
+				<spellslots3>
+					<holder name="test" owner="true" />
+				</spellslots3>
+				<spellslots4>
+					<holder name="test" owner="true" />
+				</spellslots4>
+				<spellslots5>
+					<holder name="test" owner="true" />
+				</spellslots5>
+				<spellslots6>
+					<holder name="test" owner="true" />
+				</spellslots6>
+				<spellslots7>
+					<holder name="test" owner="true" />
+				</spellslots7>
+				<spellslots8>
+					<holder name="test" owner="true" />
+				</spellslots8>
+				<spellslots9>
+					<holder name="test" owner="true" />
+				</spellslots9>
+			</powermeta>
+			<powers>
+				<holder name="test" owner="true" />
+			</powers>
+			<profbonus type="number">2</profbonus>
+			<proficiencylist>
+				<holder name="test" owner="true" />
+			</proficiencylist>
+			<racelink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</racelink>
+			<skilllist>
+				<holder name="test" owner="true" />
+				<id-00001>
+					<holder name="test" owner="true" />
+					<name type="string">Perception</name>
+					<stat type="string">wisdom</stat>
+				</id-00001>
+			</skilllist>
+			<speed>
+				<holder name="test" owner="true" />
+				<armor type="number">0</armor>
+				<base type="number">0</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</speed>
+			<temp>
+				<holder name="test" owner="true" />
+				<item>
+					<holder name="test" owner="true" />
+				</item>
+			</temp>
+			<token type="token">portrait_id-00001_token</token>
+			<traitlist>
+				<holder name="test" owner="true" />
+			</traitlist>
+			<weaponlist>
+				<holder name="test" owner="true" />
+				<id-00001>
+					<holder name="test" owner="true" />
+					<carried type="number">2</carried>
+					<damagelist>
+						<holder name="test" owner="true" />
+						<id-00001>
+							<holder name="test" owner="true" />
+							<dice type="dice">d4</dice>
+							<stat type="string">base</stat>
+							<type type="string">bludgeoning</type>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Club</name>
+					<prof type="number">1</prof>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00001</recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00001>
+				<id-00002>
+					<holder name="test" owner="true" />
+					<carried type="number">2</carried>
+					<damagelist>
+						<holder name="test" owner="true" />
+						<id-00001>
+							<holder name="test" owner="true" />
+							<dice type="dice">d10</dice>
+							<stat type="string">base</stat>
+							<type type="string">slashing</type>
+						</id-00001>
+					</damagelist>
+					<isidentified type="number">1</isidentified>
+					<maxammo type="number">0</maxammo>
+					<name type="string">Glaive</name>
+					<prof type="number">1</prof>
+					<shortcut type="windowreference">
+						<class>item</class>
+						<recordname>....inventorylist.id-00002</recordname>
+					</shortcut>
+					<type type="number">0</type>
+				</id-00002>
+			</weaponlist>
+		</id-00001>
+	</charsheet>
+	<combattracker>
+		<public />
+		<list>
+			<public />
+			<id-00011>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<score type="number">10</score>
+					</charisma>
+					<constitution>
+						<public />
+						<score type="number">10</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<score type="number">10</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<score type="number">10</score>
+					</intelligence>
+					<strength>
+						<public />
+						<score type="number">10</score>
+					</strength>
+					<wisdom>
+						<public />
+						<score type="number">10</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">10</ac>
+				<actions>
+					<public />
+				</actions>
+				<active type="number">0</active>
+				<deathsavefail type="number">3</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">friend</friendfoe>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">10</hptotal>
+				<init type="number">0</init>
+				<initresult type="number">19</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>charsheet</class>
+					<recordname>charsheet.id-00001</recordname>
+				</link>
+				<name type="string">asdasd</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<space type="number">5</space>
+				<speed type="string">0</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Dying</status>
+				<targets>
+					<public />
+					<id-00016>
+						<public />
+						<noderef type="string">combattracker.list.id-00013</noderef>
+					</id-00016>
+				</targets>
+				<token type="token">portrait_id-00001_token</token>
+				<tokenrefid type="string">13</tokenrefid>
+				<tokenrefnode type="string">image.id-00003.image</tokenrefnode>
+				<tokenscale type="number">0.84</tokenscale>
+				<tokenvis type="number">0</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<wounds type="number">10</wounds>
+			</id-00011>
+			<id-00013>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">11</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">12</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<bonus type="number">2</bonus>
+						<score type="number">14</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">11</score>
+					</intelligence>
+					<strength>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">11</score>
+					</strength>
+					<wisdom>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">13</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">13</ac>
+				<actext type="string">(leather armor)</actext>
+				<actions>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The scout makes two melee attacks or two ranged attacks.</desc>
+						<name type="string">Multiattack</name>
+						<value type="string">Multiattack</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</desc>
+						<name type="string">Shortsword</name>
+						<value type="string">Shortsword [M] [ATK: +4] [DMG: 1d6+2 piercing]</value>
+					</id-00002>
+					<id-00003>
+						<public />
+						<desc type="string">Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</desc>
+						<name type="string">Longbow</name>
+						<value type="string">Longbow [R] [ATK: +4] [DMG: 1d8+2 piercing]</value>
+					</id-00003>
+				</actions>
+				<active type="number">0</active>
+				<alignment type="string">any alignment</alignment>
+				<cr type="string">1/2</cr>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">foe</friendfoe>
+				<hd type="string">(3d8 + 3)</hd>
+				<hp type="number">16</hp>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">16</hptotal>
+				<init type="number">2</init>
+				<initresult type="number">15</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<languages type="string">any one language (usually Common)</languages>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<locked type="number">1</locked>
+				<name type="string">Scout 1</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<senses type="string">passive Perception 15</senses>
+				<size type="string">Medium</size>
+				<skills type="string">Nature +4, Perception +5, Stealth +6, Survival +5</skills>
+				<space type="number">5</space>
+				<speed type="string">30 ft.</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Heavy</status>
+				<targets>
+					<public />
+				</targets>
+				<text type="formattedtext">
+					<h>Scout</h>
+					<p>Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.</p>
+				</text>
+				<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				<tokenrefid type="string">12</tokenrefid>
+				<tokenrefnode type="string">image.id-00003.image</tokenrefnode>
+				<tokenscale type="number">0.65625</tokenscale>
+				<tokenvis type="number">1</tokenvis>
+				<traits>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.</desc>
+						<name type="string">Keen Hearing and Sight</name>
+						<value type="string">Keen hearing and sight</value>
+					</id-00001>
+				</traits>
+				<type type="string">humanoid (any race)</type>
+				<wounds type="number">8</wounds>
+				<xp type="number">100</xp>
+			</id-00013>
+			<id-00014>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">11</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">12</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<bonus type="number">2</bonus>
+						<score type="number">14</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">11</score>
+					</intelligence>
+					<strength>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">11</score>
+					</strength>
+					<wisdom>
+						<public />
+						<bonus type="number">1</bonus>
+						<score type="number">13</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">13</ac>
+				<actext type="string">(leather armor)</actext>
+				<actions>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The scout makes two melee attacks or two ranged attacks.</desc>
+						<name type="string">Multiattack</name>
+						<value type="string">Multiattack</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.</desc>
+						<name type="string">Shortsword</name>
+						<value type="string">Shortsword [M] [ATK: +4] [DMG: 1d6+2 piercing]</value>
+					</id-00002>
+					<id-00003>
+						<public />
+						<desc type="string">Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</desc>
+						<name type="string">Longbow</name>
+						<value type="string">Longbow [R] [ATK: +4] [DMG: 1d8+2 piercing]</value>
+					</id-00003>
+				</actions>
+				<active type="number">1</active>
+				<alignment type="string">any alignment</alignment>
+				<cr type="string">1/2</cr>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">foe</friendfoe>
+				<hd type="string">(3d8 + 3)</hd>
+				<hp type="number">16</hp>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">16</hptotal>
+				<init type="number">2</init>
+				<initresult type="number">15</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<lairactions>
+					<public />
+				</lairactions>
+				<languages type="string">any one language (usually Common)</languages>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<locked type="number">1</locked>
+				<name type="string">Scout 2</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<senses type="string">passive Perception 15</senses>
+				<size type="string">Medium</size>
+				<skills type="string">Nature +4, Perception +5, Stealth +6, Survival +5</skills>
+				<space type="number">5</space>
+				<speed type="string">30 ft.</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<text type="formattedtext">
+					<h>Scout</h>
+					<p>Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.</p>
+				</text>
+				<token type="token">tokens/scout.png@DD5E SRD Bestiary</token>
+				<tokenrefid type="string">14</tokenrefid>
+				<tokenrefnode type="string">image.id-00003.image</tokenrefnode>
+				<tokenscale type="number">0.65625</tokenscale>
+				<tokenvis type="number">1</tokenvis>
+				<traits>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.</desc>
+						<name type="string">Keen Hearing and Sight</name>
+						<value type="string">Keen hearing and sight</value>
+					</id-00001>
+				</traits>
+				<type type="string">humanoid (any race)</type>
+				<wounds type="number">0</wounds>
+				<xp type="number">100</xp>
+			</id-00014>
+		</list>
+		<round type="number">3</round>
+	</combattracker>
+	<effects>
+		<public />
+	</effects>
+	<export>
+		<readonly type="number">0</readonly>
+	</export>
+	<image>
+		<id-00002>
+			<image type="image">
+				<bitmap>images/05_Cityscape_72_493yw_ppi.jpg</bitmap>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">05_Cityscape_72_493yw_ppi</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<image type="image">
+				<bitmap>images/01_Hamletnmanor_b4j3.jpg</bitmap>
+				<mask>maskedimages/1489720222.png</mask>
+				<drawing>drawings/drawing_1489800041.png</drawing>
+				<gridsize>35</gridsize>
+				<gridoffset>15,28</gridoffset>
+				<gridsnap>on</gridsnap>
+				<shortcuts>
+					<shortcut>
+						<x>536</x>
+						<y>291</y>
+						<class>battle</class>
+						<recordname>battle.id-00002</recordname>
+					</shortcut>
+				</shortcuts>
+				<tokens>
+					<idcounter>14</idcounter>
+					<tokenlock />
+					<scalelock>3</scalelock>
+					<token>
+						<prototype>tokens/scout.png@DD5E SRD Bestiary</prototype>
+						<id>12</id>
+						<x>488</x>
+						<y>291</y>
+						<scale>0.65625</scale>
+						<unmodifiable />
+					</token>
+					<token>
+						<prototype>tokens/scout.png@DD5E SRD Bestiary</prototype>
+						<id>14</id>
+						<x>558</x>
+						<y>361</y>
+						<scale>0.65625</scale>
+						<unmodifiable />
+					</token>
+					<token>
+						<prototype>portrait_id-00001_token</prototype>
+						<id>13</id>
+						<x>768</x>
+						<y>186</y>
+						<scale>0.84</scale>
+						<visibilitylocked>on</visibilitylocked>
+						<targets>12</targets>
+					</token>
+				</tokens>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">01_Hamletnmanor_b4j3</name>
+		</id-00003>
+	</image>
+	<item>
+	</item>
+	<languages>
+		<public />
+		<id-00001>
+			<public />
+			<font type="string">Primordial</font>
+			<name type="string">Primordial</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Aquan</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Elvish</name>
+		</id-00003>
+		<id-00004>
+			<public />
+			<font type="string">Celestial</font>
+			<name type="string">Celestial</name>
+		</id-00004>
+		<id-00005>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Infernal</name>
+		</id-00005>
+		<id-00006>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Gnomish</name>
+		</id-00006>
+		<id-00007>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Undercommon</name>
+		</id-00007>
+		<id-00008>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Draconic</name>
+		</id-00008>
+		<id-00009>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Abyssal</name>
+		</id-00009>
+		<id-00010>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Sylvan</name>
+		</id-00010>
+		<id-00011>
+			<public />
+			<name type="string">Common</name>
+		</id-00011>
+		<id-00012>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Terran</name>
+		</id-00012>
+		<id-00013>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Ignan</name>
+		</id-00013>
+		<id-00014>
+			<public />
+			<name type="string">Deep Speech</name>
+		</id-00014>
+		<id-00015>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Auran</name>
+		</id-00015>
+		<id-00016>
+			<public />
+			<name type="string">Halfling</name>
+		</id-00016>
+		<id-00017>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Orc</name>
+		</id-00017>
+		<id-00018>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Giant</name>
+		</id-00018>
+		<id-00019>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Dwarvish</name>
+		</id-00019>
+		<id-00020>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Goblin</name>
+		</id-00020>
+	</languages>
+	<library>
+	</library>
+	<modifiers>
+		<public />
+	</modifiers>
+	<notes>
+		<id-00001>
+			<text type="formattedtext">
+				<p></p>
+			</text>
+		</id-00001>
+	</notes>
+	<npc>
+	</npc>
+	<options>
+		<public />
+		<HRFC type="string">both</HRFC>
+		<NNPC type="string">append</NNPC>
+		<TNAM type="string">on</TNAM>
+	</options>
+	<partysheet>
+		<public />
+	</partysheet>
+	<quest>
+		<id-00001>
+			<public />
+			<cr type="string">10</cr>
+			<description type="formattedtext">
+				<p>BLAH BLAH</p>
+			</description>
+			<name type="string">Test</name>
+			<xp type="number">16000</xp>
+		</id-00001>
+	</quest>
+	<race>
+	</race>
+	<spell>
+	</spell>
+	<temp>
+	</temp>
+</root>

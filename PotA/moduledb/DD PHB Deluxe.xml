@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="36fce074f3164ac861e8ca73e16cbf4ef1c6219d">
+	<reference>
+		<category name="DD PHB Deluxe" baseicon="0" decalicon="0">
+			<imagedata>
+				<category name="Artwork - DD PHB Deluxe" baseicon="2" decalicon="1">
+					<img_intro_jpg>
+						<features_image type="image">
+							<drawing>drawings/drawing_1511662346.png</drawing>
+						</features_image>
+						<play_image type="image">
+							<drawing>drawings/drawing_1511662348.png</drawing>
+						</play_image>
+					</img_intro_jpg>
+					<img_part3_5_jpg>
+						<features_image type="image">
+							<drawing>drawings/drawing_1511662380.png</drawing>
+						</features_image>
+						<play_image type="image">
+							<drawing>drawings/drawing_1511662382.png</drawing>
+						</play_image>
+					</img_part3_5_jpg>
+					<img_wizard2_jpg>
+						<features_image type="image">
+							<drawing>drawings/drawing_1511662393.png</drawing>
+						</features_image>
+						<play_image type="image">
+							<drawing>drawings/drawing_1511662395.png</drawing>
+						</play_image>
+					</img_wizard2_jpg>
+				</category>
+				<category name="Backgrounds - DD PHB Deluxe" baseicon="2" decalicon="1">
+				</category>
+				<category name="Classes - DD PHB Deluxe" baseicon="2" decalicon="1">
+					<img_paladin_jpg>
+						<features_image type="image">
+							<drawing>drawings/drawing_1511662370.png</drawing>
+						</features_image>
+						<play_image type="image">
+							<drawing>drawings/drawing_1511662372.png</drawing>
+						</play_image>
+					</img_paladin_jpg>
+				</category>
+				<category name="Items - DD PHB Deluxe" baseicon="2" decalicon="1">
+					<img_clericstuff_jpg>
+						<features_image type="image">
+							<drawing>drawings/drawing_1511662336.png</drawing>
+						</features_image>
+						<play_image type="image">
+							<drawing>drawings/drawing_1511662338.png</drawing>
+						</play_image>
+					</img_clericstuff_jpg>
+				</category>
+				<category name="NPCs - DD PHB Deluxe" baseicon="2" decalicon="1">
+				</category>
+				<category name="Races - DD PHB Deluxe" baseicon="2" decalicon="1">
+				</category>
+			</imagedata>
+		</category>
+	</reference>
+</root>

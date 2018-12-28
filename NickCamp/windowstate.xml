@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.2">
+	<window data="" class="library" pos="610,245,1310,795" />
+	<window data="" class="moduleselection" pos="563,288,1263,818" />
+	<window data="" class="tokenbag" pos="760,320,1160,720" />
+	<window data="battle" class="masterindex" pos="1286,332,1736,782" />
+	<window data="battle.id-00001" class="battle" pos="785,320,1135,720" />
+	<window data="battle.id-00002" class="battle" pos="1334,360,1684,760" />
+	<window data="battlerandom" class="masterindex" pos="735,295,1185,745" />
+	<window data="battlerandom.id-00001" class="battlerandom" pos="785,320,1135,720" />
+	<window data="charsheet.id-00001" class="charsheet" pos="598,191,1123,791" />
+	<window data="combattracker" class="combattracker_host" pos="344,224,994,1020" />
+	<window data="image" class="masterindex" pos="1048,310,1498,760" />
+	<window data="image.id-00002" class="imagewindow" pos="338,-2,1342,1035" />
+	<window data="image.id-00003" class="imagewindow" pos="244,27,1645,1048" />
+	<window data="item" class="masterindex" pos="735,295,1185,745" />
+	<window data="notes" class="masterindex" pos="1346,57,1796,507" />
+	<window data="notes.id-00001" class="note" pos="1394,112,1744,462" />
+	<window data="npc" class="masterindex" pos="1273,300,1723,750" />
+	<window data="quest" class="masterindex" pos="735,295,1185,745" />
+	<window data="quest.id-00001" class="quest" pos="732,468,1082,818" />
+	<window data="race" class="masterindex" pos="735,295,1185,745" />
+	<window data="spell" class="masterindex" pos="735,295,1185,745" />
+
+	<image data="image.id-00002" class="imagewindow" control="image" view="0,0" zoom="1.49375" />
+	<image data="image.id-00003" class="imagewindow" control="image" view="-105,-59" zoom="1.4" />
+</windowstate>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.2">
+	<window data="" class="library" pos="892,81,1592,631" />
+	<window data="" class="moduleselection" pos="515,144,1215,674" />
+	<window data="" class="tokenbag" pos="338,253,738,653" />
+	<window data="MJB_Locations" class="wcLocationMasterListsWindow" pos="139,102,589,798" />
+	<window data="MJB_Locations.Building.id-00001" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Building.id-00002" class="wcBuilding" pos="844,199,1244,835" />
+	<window data="MJB_Locations.Building.id-00003" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Building.id-00004" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Building.id-00005" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Building.id-00006" class="wcBuilding" pos="758,189,1158,825" />
+	<window data="MJB_Locations.Building.id-00007" class="wcBuilding" pos="1008,240,1408,876" />
+	<window data="MJB_Locations.Building.id-00008" class="wcBuilding" pos="96,185,496,821" />
+	<window data="MJB_Locations.Building.id-00009" class="wcBuilding" pos="24,215,424,851" />
+	<window data="MJB_Locations.Building.id-00010" class="wcBuilding" pos="96,207,496,843" />
+	<window data="MJB_Locations.Building.id-00011" class="wcBuilding" pos="153,182,553,818" />
+	<window data="MJB_Locations.Building.id-00012" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Building.id-00013" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Building.id-00014" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Building.id-00015" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Building.id-00016" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Building.id-00017" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Building.id-00018" class="wcBuilding" pos="375,171,775,807" />
+	<window data="MJB_Locations.Building.id-00019" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Building.id-00020" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Building.id-00021" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Building.id-00022" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Building.id-00023" class="wcBuilding" pos="833,170,1233,806" />
+	<window data="MJB_Locations.Building.id-00024" class="wcBuilding" pos="516,67,916,703" />
+	<window data="MJB_Locations.Building.id-00025" class="wcBuilding" pos="483,136,883,772" />
+	<window data="MJB_Locations.Building.id-00026" class="wcBuilding" pos="537,67,937,703" />
+	<window data="MJB_Locations.Building.id-00027" class="wcBuilding" pos="500,111,900,747" />
+	<window data="MJB_Locations.Building.id-00028" class="wcBuilding" pos="251,76,651,712" />
+	<window data="MJB_Locations.Building.id-00029" class="wcBuilding" pos="528,96,928,732" />
+	<window data="MJB_Locations.Building.id-00030" class="wcBuilding" pos="518,100,918,736" />
+	<window data="MJB_Locations.Building.id-00031" class="wcBuilding" pos="760,202,1160,838" />
+	<window data="MJB_Locations.Location.id-00001" class="wcLocation" pos="383,115,733,837" />
+	<window data="MJB_Locations.Plane.id-00001" class="wcPlane" pos="780,149,1130,857" />
+	<window data="MJB_Locations.Town.id-00001" class="wcTown" pos="892,153,1242,789" />
+	<window data="MJB_Organisations" class="wcLibMasterList" pos="381,193,831,643" />
+	<window data="MJB_Organisations.id-00001" class="wcOrganisations" pos="433,151,783,720" />
+	<window data="MJB_Organisations.id-00002" class="wcOrganisations" pos="490,109,840,678" />
+	<window data="MJB_Organisations.id-00003" class="wcOrganisations" pos="549,243,899,812" />
+	<window data="MJB_Organisations.id-00004" class="wcOrganisations" pos="505,202,855,771" />
+	<window data="MJB_Organisations.id-00005" class="wcOrganisations" pos="785,235,1135,804" />
+	<window data="MJB_Sound" class="wcSoundMasterListsWindow" pos="730,250,1180,755" />
+	<window data="feat" class="masterindex" pos="735,295,1185,745" />
+	<window data="image" class="masterindex" pos="1101,141,1551,591" />
+	<window data="image.id-00001" class="imagewindow" pos="-24,12,1624,1018" />
+	<window data="image.id-00002" class="imagewindow" pos="667,117,1252,887" />
+	<window data="image.id-00003" class="imagewindow" pos="733,133,1281,767" />
+	<window data="image.id-00008" class="imagewindow" pos="238,15,786,752" />
+	<window data="image.id-00009" class="imagewindow" pos="413,79,1506,924" />
+	<window data="image.id-00011" class="imagewindow" pos="686,98,1234,941" />
+	<window data="item" class="masterindex" pos="1218,270,1668,720" />
+	<window data="lists.table.bycategory@DD PHB Deluxe" class="reference_colindex" pos="730,278,1180,728" />
+	<window data="npc" class="masterindex" pos="361,52,811,502" />
+	<window data="npc.id-00001" class="npc" pos="932,175,1392,725" />
+	<window data="npc.id-00002" class="npc" pos="381,146,841,696" />
+	<window data="npc.id-00003" class="npc" pos="141,56,601,606" />
+	<window data="npc.id-00006" class="npc" pos="389,193,849,743" />
+	<window data="reference.equipmentdata.battleaxe@DD PHB Deluxe" class="reference_weapon" pos="1344,382,1694,732" />
+	<window data="reference.featdata.mobile@DD PHB Deluxe" class="reference_feat" pos="785,345,1135,695" />
+	<window data="reference.featdata.observant@DD PHB Deluxe" class="reference_feat" pos="785,345,1135,695" />
+	<window data="reference.featdata.sentinel@DD PHB Deluxe" class="reference_feat" pos="785,345,1135,695" />
+	<window data="reference.featdata.warcaster@DD PHB Deluxe" class="reference_feat" pos="785,345,1135,695" />
+	<window data="reference.npcdata.acolyte@DD5E SRD Bestiary" class="npc" pos="725,228,1185,778" />
+	<window data="reference.npcdata.adultblackdragon@DD5E SRD Bestiary" class="npc" pos="718,417,1178,967" />
+	<window data="reference.npcdata.adultbluedragon@DD5E SRD Bestiary" class="npc" pos="916,193,1376,743" />
+	<window data="reference.npcdata.adultbrassdragon@DD5E SRD Bestiary" class="npc" pos="1047,146,1507,696" />
+	<window data="reference.npcdata.adultgreendragon@DD5E SRD Bestiary" class="npc" pos="730,245,1190,795" />
+	<window data="reference.npcdata.adultsilverdragon@DD5E SRD Bestiary" class="npc" pos="899,211,1359,761" />
+	<window data="reference.npcdata.ancientsilverdragon@DD5E SRD Bestiary" class="npc" pos="730,245,1190,795" />
+	<window data="reference.npcdata.axebeak@DD5E SRD Bestiary" class="npc" pos="730,245,1190,795" />
+	<window data="reference.npcdata.bluedragonwyrmling@DD5E SRD Bestiary" class="npc" pos="730,245,1190,795" />
+	<window data="reference.npcdata.djinni@DD5E SRD Bestiary" class="npc" pos="730,245,1190,795" />
+	<window data="reference.npcdata.reefshark@DD PHB Deluxe" class="npc" pos="725,228,1185,778" />
+	<window data="reference.npcdata.sprite@DD PHB Deluxe" class="npc" pos="725,228,1185,778" />
+	<window data="reference.npcdata.zombie@DD PHB Deluxe" class="npc" pos="856,121,1316,671" />
+	<window data="reference.refmanualindex@DD PHB Deluxe" class="reference_manual" pos="784,161,1734,811" />
+	<window data="reference.skilldata.acrobatics@DD PHB Deluxe" class="reference_skill" pos="780,403,1130,703" />
+	<window data="reference.skilldata.medicine@DD PHB Deluxe" class="reference_skill" pos="786,366,1136,666" />
+	<window data="reference.skilllists.byletter@DD PHB Deluxe" class="reference_colindex" pos="1167,210,1617,660" />
+	<window data="reference.spelldata.blight@DD5E SRD Data" class="power" pos="780,328,1130,678" />
+	<window data="reference.spelldata.falselife@DD5E SRD Data" class="power" pos="780,328,1130,678" />
+	<window data="skill" class="masterindex" pos="1070,222,1520,672" />
+	<window data="spell" class="masterindex" pos="1019,230,1469,680" />
+
+	<image data="image.id-00003" class="imagewindow" control="features_image" view="0,0" zoom="1.41" />
+	<image data="image.id-00003" class="imagewindow" control="image" view="0,0" zoom="1.41243" />
+	<image data="image.id-00003" class="imagewindow" control="play_image" view="0,0" zoom="1.41" />
+	<image data="image.id-00008" class="imagewindow" control="features_image" view="0,0" zoom="1.06" />
+	<image data="image.id-00008" class="imagewindow" control="image" view="0,0" zoom="1.06157" />
+	<image data="image.id-00008" class="imagewindow" control="play_image" view="0,0" zoom="1.06" />
+	<image data="image.id-00011" class="imagewindow" control="features_image" view="0,0" zoom="1.45" />
+	<image data="image.id-00011" class="imagewindow" control="image" view="0,0" zoom="1.45773" />
+	<image data="image.id-00011" class="imagewindow" control="play_image" view="0,0" zoom="1.45" />
+</windowstate>

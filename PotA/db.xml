@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3">
+	<MJB_Extensions>
+		<Locations type="number">3</Locations>
+		<Organisations type="number">1</Organisations>
+		<Sound type="number">1</Sound>
+	</MJB_Extensions>
+	<MJB_Locations>
+		<Building>
+		</Building>
+		<Cosmos>
+		</Cosmos>
+		<Location>
+		</Location>
+		<Plane>
+		</Plane>
+		<Portal>
+		</Portal>
+		<System>
+		</System>
+		<Town>
+		</Town>
+		<World>
+		</World>
+	</MJB_Locations>
+	<MJB_Organisations>
+	</MJB_Organisations>
+	<MJB_Sound>
+		<AutoSound>
+		</AutoSound>
+		<ChatSound>
+		</ChatSound>
+		<MiniBoard>
+		</MiniBoard>
+		<SoundBoard>
+		</SoundBoard>
+		<SoundSetup>
+		</SoundSetup>
+	</MJB_Sound>
+	<battle>
+	</battle>
+	<calendar>
+		<public />
+	</calendar>
+	<charsheet>
+		<id-00001>
+			<holder name="GM2" owner="true" />
+			<abilities>
+				<holder name="GM2" owner="true" />
+				<charisma>
+					<holder name="GM2" owner="true" />
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<holder name="GM2" owner="true" />
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<holder name="GM2" owner="true" />
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<holder name="GM2" owner="true" />
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<holder name="GM2" owner="true" />
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<holder name="GM2" owner="true" />
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<classes>
+				<holder name="GM2" owner="true" />
+			</classes>
+			<defenses>
+				<holder name="GM2" owner="true" />
+				<ac>
+					<holder name="GM2" owner="true" />
+					<prof type="number">1</prof>
+					<total type="number">10</total>
+				</ac>
+			</defenses>
+			<hp>
+				<holder name="GM2" owner="true" />
+			</hp>
+			<initiative>
+				<holder name="GM2" owner="true" />
+			</initiative>
+			<level type="number">0</level>
+			<name type="string">GM</name>
+			<perception type="number">10</perception>
+			<profbonus type="number">2</profbonus>
+			<skilllist>
+				<holder name="GM2" owner="true" />
+				<id-00001>
+					<holder name="GM2" owner="true" />
+					<name type="string">Perception</name>
+					<stat type="string">wisdom</stat>
+				</id-00001>
+			</skilllist>
+			<speed>
+				<holder name="GM2" owner="true" />
+			</speed>
+		</id-00001>
+	</charsheet>
+	<combattracker>
+		<public />
+		<list>
+			<public />
+		</list>
+		<round type="number">0</round>
+	</combattracker>
+	<effects>
+		<public />
+	</effects>
+	<encounter>
+	</encounter>
+	<image>
+	</image>
+	<languages>
+		<public />
+		<id-00001>
+			<public />
+			<font type="string">Primordial</font>
+			<name type="string">Primordial</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Aquan</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Elvish</name>
+		</id-00003>
+		<id-00004>
+			<public />
+			<font type="string">Celestial</font>
+			<name type="string">Celestial</name>
+		</id-00004>
+		<id-00005>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Infernal</name>
+		</id-00005>
+		<id-00006>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Gnomish</name>
+		</id-00006>
+		<id-00007>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Undercommon</name>
+		</id-00007>
+		<id-00008>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Draconic</name>
+		</id-00008>
+		<id-00009>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Abyssal</name>
+		</id-00009>
+		<id-00010>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Sylvan</name>
+		</id-00010>
+		<id-00011>
+			<public />
+			<name type="string">Common</name>
+		</id-00011>
+		<id-00012>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Terran</name>
+		</id-00012>
+		<id-00013>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Ignan</name>
+		</id-00013>
+		<id-00014>
+			<public />
+			<name type="string">Deep Speech</name>
+		</id-00014>
+		<id-00015>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Auran</name>
+		</id-00015>
+		<id-00016>
+			<public />
+			<name type="string">Halfling</name>
+		</id-00016>
+		<id-00017>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Orc</name>
+		</id-00017>
+		<id-00018>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Giant</name>
+		</id-00018>
+		<id-00019>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Dwarvish</name>
+		</id-00019>
+		<id-00020>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Goblin</name>
+		</id-00020>
+	</languages>
+	<library>
+	</library>
+	<modifiers>
+		<public />
+	</modifiers>
+	<npc>
+	</npc>
+	<options>
+		<public />
+	</options>
+	<partysheet>
+		<public />
+		<bonus type="number">0</bonus>
+		<checkdc type="number">0</checkdc>
+		<checkselected type="string">Strength</checkselected>
+		<hiderollresults type="number">0</hiderollresults>
+		<partyinformation>
+			<public />
+		</partyinformation>
+		<savedc type="number">0</savedc>
+		<saveselected type="string">Strength</saveselected>
+		<skilldc type="number">0</skilldc>
+	</partysheet>
+	<randomdata>
+		<holder name="GM2" />
+		<DayNumber type="number">0</DayNumber>
+		<Year type="number">0</Year>
+		<enclocation type="string">Forest</enclocation>
+		<encounternumber type="number">0</encounternumber>
+		<fullname type="string"> </fullname>
+		<ruleset type="string">D&#38;D</ruleset>
+		<treasurenumber1 type="number">0</treasurenumber1>
+		<treasurenumber2 type="number">0</treasurenumber2>
+		<treasurenumber3 type="number">0</treasurenumber3>
+		<treasurenumber4 type="number">0</treasurenumber4>
+		<treasurenumber5 type="number">0</treasurenumber5>
+		<treasurenumber6 type="number">0</treasurenumber6>
+	</randomdata>
+	<storytemplate>
+	</storytemplate>
+	<tables>
+	</tables>
+	<treasureparcels>
+	</treasureparcels>
+</root>

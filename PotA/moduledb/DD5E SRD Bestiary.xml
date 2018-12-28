@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="5594740bb1078911ec03c60261c74bb9561035ad">
+	<reference>
+		<category name="DD5E SRD Bestiary" baseicon="0" decalicon="0">
+			<npcdata>
+				<category name="DD5E SRD Bestiary" baseicon="0" decalicon="0">
+					<aboleth>
+						<holder name="GM2" />
+						<category name="DD5E SRD Bestiary" baseicon="0" decalicon="0">
+							<abilities>
+								<holder name="GM2" />
+								<category name="DD5E SRD Bestiary" baseicon="0" decalicon="0">
+									<charisma>
+										<holder name="GM2" />
+									</charisma>
+									<constitution>
+										<holder name="GM2" />
+									</constitution>
+									<dexterity>
+										<holder name="GM2" />
+									</dexterity>
+									<intelligence>
+										<holder name="GM2" />
+									</intelligence>
+									<strength>
+										<holder name="GM2" />
+									</strength>
+									<wisdom>
+										<holder name="GM2" />
+									</wisdom>
+								</category>
+							</abilities>
+							<actions>
+								<holder name="GM2" />
+								<category name="DD5E SRD Bestiary" baseicon="0" decalicon="0">
+									<id-00001>
+										<holder name="GM2" />
+									</id-00001>
+									<id-00002>
+										<holder name="GM2" />
+									</id-00002>
+									<id-00003>
+										<holder name="GM2" />
+									</id-00003>
+									<id-00004>
+										<holder name="GM2" />
+									</id-00004>
+								</category>
+							</actions>
+							<legendaryactions>
+								<holder name="GM2" />
+								<category name="DD5E SRD Bestiary" baseicon="0" decalicon="0">
+									<id-00001>
+										<holder name="GM2" />
+									</id-00001>
+									<id-00002>
+										<holder name="GM2" />
+									</id-00002>
+									<id-00003>
+										<holder name="GM2" />
+									</id-00003>
+									<id-00004>
+										<holder name="GM2" />
+									</id-00004>
+								</category>
+							</legendaryactions>
+							<traits>
+								<holder name="GM2" />
+								<category name="DD5E SRD Bestiary" baseicon="0" decalicon="0">
+									<id-00001>
+										<holder name="GM2" />
+									</id-00001>
+									<id-00002>
+										<holder name="GM2" />
+									</id-00002>
+									<id-00003>
+										<holder name="GM2" />
+									</id-00003>
+								</category>
+							</traits>
+						</category>
+					</aboleth>
+					<adultblackdragon>
+						<holder name="GM2" />
+						<innatespells>
+							<holder name="GM2" />
+						</innatespells>
+						<lairactions>
+							<holder name="GM2" />
+						</lairactions>
+						<reactions>
+							<holder name="GM2" />
+						</reactions>
+						<spells>
+							<holder name="GM2" />
+						</spells>
+						<category name="DD5E SRD Bestiary" baseicon="0" decalicon="0">
+							<abilities>
+								<holder name="GM2" />
+								<category name="DD5E SRD Bestiary" baseicon="0" decalicon="0">
+									<charisma>
+										<holder name="GM2" />
+									</charisma>
+									<constitution>
+										<holder name="GM2" />
+									</constitution>
+									<dexterity>
+										<holder name="GM2" />
+									</dexterity>
+									<intelligence>
+										<holder name="GM2" />
+									</intelligence>
+									<strength>
+										<holder name="GM2" />
+									</strength>
+									<wisdom>
+										<holder name="GM2" />
+									</wisdom>
+								</category>
+							</abilities>
+							<actions>
+								<holder name="GM2" />
+								<category name="DD5E SRD Bestiary" baseicon="0" decalicon="0">
+									<id-00001>
+										<holder name="GM2" />
+									</id-00001>
+									<id-00002>
+										<holder name="GM2" />
+									</id-00002>
+									<id-00003>
+										<holder name="GM2" />
+									</id-00003>
+									<id-00004>
+										<holder name="GM2" />
+									</id-00004>
+									<id-00005>
+										<holder name="GM2" />
+									</id-00005>
+									<id-00006>
+										<holder name="GM2" />
+									</id-00006>
+								</category>
+							</actions>
+							<legendaryactions>
+								<holder name="GM2" />
+								<category name="DD5E SRD Bestiary" baseicon="0" decalicon="0">
+									<id-00001>
+										<holder name="GM2" />
+									</id-00001>
+									<id-00002>
+										<holder name="GM2" />
+									</id-00002>
+									<id-00003>
+										<holder name="GM2" />
+									</id-00003>
+									<id-00004>
+										<holder name="GM2" />
+									</id-00004>
+								</category>
+							</legendaryactions>
+							<traits>
+								<holder name="GM2" />
+								<category name="DD5E SRD Bestiary" baseicon="0" decalicon="0">
+									<id-00001>
+										<holder name="GM2" />
+									</id-00001>
+									<id-00002>
+										<holder name="GM2" />
+									</id-00002>
+								</category>
+							</traits>
+						</category>
+					</adultblackdragon>
+				</category>
+			</npcdata>
+		</category>
+	</reference>
+</root>

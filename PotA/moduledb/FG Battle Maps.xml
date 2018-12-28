@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:3" integrity="ed912deeed4bf435df1e7716ce908d893ed7da90">
+	<image>
+		<category name="FG Battle Maps" baseicon="0" decalicon="0">
+			<id-00008>
+				<features_image type="image">
+					<drawing>drawings/drawing_1511662322.png</drawing>
+				</features_image>
+				<play_image type="image">
+					<drawing>drawings/drawing_1511662324.png</drawing>
+				</play_image>
+			</id-00008>
+			<id-00020>
+				<holder name="GM2" />
+				<features_image type="image">
+					<drawing>drawings/drawing_1511663307.png</drawing>
+					<gridsize>50</gridsize>
+					<gridoffset>49,0</gridoffset>
+					<gridsnap>on</gridsnap>
+				</features_image>
+				<image type="image">
+					<bitmap>Streets3.jpg</bitmap>
+					<gridsize>50</gridsize>
+					<gridoffset>49,0</gridoffset>
+					<gridsnap>on</gridsnap>
+				</image>
+				<play_image type="image">
+					<drawing>drawings/drawing_1511663308.png</drawing>
+					<gridsize>50</gridsize>
+					<gridoffset>49,0</gridoffset>
+					<gridsnap>on</gridsnap>
+					<tokens>
+						<idcounter>3</idcounter>
+						<tokenlock />
+						<token>
+							<prototype>tokens/0.png@DD PHB Deluxe</prototype>
+							<id>1</id>
+							<x>473</x>
+							<y>563</y>
+						</token>
+						<token>
+							<prototype>tokens/1.png@DD PHB Deluxe</prototype>
+							<id>2</id>
+							<x>575</x>
+							<y>576</y>
+							<scale>0.5</scale>
+						</token>
+						<token>
+							<prototype>tokens/2.png@DD PHB Deluxe</prototype>
+							<id>3</id>
+							<x>650</x>
+							<y>151</y>
+						</token>
+					</tokens>
+				</play_image>
+			</id-00020>
+			<id-00021>
+				<features_image type="image">
+					<drawing>drawings/drawing_1511662385.png</drawing>
+				</features_image>
+				<play_image type="image">
+					<drawing>drawings/drawing_1511662387.png</drawing>
+				</play_image>
+			</id-00021>
+			<id-00024>
+				<public />
+				<features_image type="image">
+					<drawing>drawings/drawing_1511662889.png</drawing>
+				</features_image>
+				<play_image type="image">
+					<drawing>drawings/drawing_1511662891.png</drawing>
+				</play_image>
+			</id-00024>
+			<id-00035>
+				<features_image type="image">
+					<drawing>drawings/drawing_1511662365.png</drawing>
+				</features_image>
+				<play_image type="image">
+					<drawing>drawings/drawing_1511662367.png</drawing>
+				</play_image>
+			</id-00035>
+			<id-00044>
+				<features_image type="image">
+					<drawing>drawings/drawing_1511662354.png</drawing>
+				</features_image>
+				<play_image type="image">
+					<drawing>drawings/drawing_1511662356.png</drawing>
+				</play_image>
+			</id-00044>
+		</category>
+	</image>
+</root>

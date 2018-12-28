@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.2" release="7|CoreRPG:3">
+	<MJB_Extensions>
+		<Locations type="number">3</Locations>
+		<Organisations type="number">1</Organisations>
+		<Sound type="number">1</Sound>
+	</MJB_Extensions>
+	<MJB_Locations>
+		<Building>
+		</Building>
+		<Cosmos>
+		</Cosmos>
+		<Location>
+			<id-00001>
+				<bCtrlFlg type="number">0</bCtrlFlg>
+				<bCtrlFlg2 type="number">0</bCtrlFlg2>
+				<bLocationType1 type="number">1</bLocationType1>
+				<bLocationType2 type="number">0</bLocationType2>
+				<bLocked type="number">1</bLocked>
+				<bUseParentClimate type="number">0</bUseParentClimate>
+				<buildinglist>
+				</buildinglist>
+				<encounterlist>
+				</encounterlist>
+				<fsGMNotes type="formattedtext">
+					<p></p>
+				</fsGMNotes>
+				<fsHistory type="formattedtext">
+					<p></p>
+				</fsHistory>
+				<ftNotes type="formattedtext">
+				</ftNotes>
+				<lCapitalLink type="windowreference">
+					<class></class>
+					<recordname></recordname>
+				</lCapitalLink>
+				<lLocationParentLink type="windowreference">
+					<class>wcPlane</class>
+					<recordname>MJB_Locations.Plane.id-00001</recordname>
+				</lLocationParentLink>
+				<lRulerLink type="windowreference">
+					<class></class>
+					<recordname></recordname>
+				</lRulerLink>
+				<locationlist>
+				</locationlist>
+				<maplist>
+				</maplist>
+				<nGovConfidence type="number">50</nGovConfidence>
+				<nIncome type="number">0</nIncome>
+				<nLatitude type="number">40</nLatitude>
+				<nLongitude type="number">0</nLongitude>
+				<nPopulation type="number">0</nPopulation>
+				<name type="string">Shadowfell</name>
+				<npclist>
+				</npclist>
+				<orglist>
+				</orglist>
+				<portallist>
+				</portallist>
+				<sAltitudeMeasure type="string">Feet</sAltitudeMeasure>
+				<sAreaMeasure type="string">Acres</sAreaMeasure>
+				<sClimate type="string">Temperate</sClimate>
+				<sLatHemisphere type="string">North</sLatHemisphere>
+				<sLocationParentName type="string">Shadowfell</sLocationParentName>
+				<sLongHemisphere type="string">East</sLongHemisphere>
+				<sTerrain type="string">Plains</sTerrain>
+				<snAltitudeExp type="number">2</snAltitudeExp>
+				<snAltitudeNum type="number">5</snAltitudeNum>
+				<snAreaExp type="number">5</snAreaExp>
+				<snAreaNum type="number">2.688</snAreaNum>
+				<soundlist>
+				</soundlist>
+				<townlist>
+					<id-00001>
+						<lShortcutLink type="windowreference">
+							<class>wcTown</class>
+							<recordname>MJB_Locations.Town.id-00001</recordname>
+						</lShortcutLink>
+						<name type="string">Gloomwrought</name>
+					</id-00001>
+				</townlist>
+			</id-00001>
+		</Location>
+		<Plane>
+			<id-00001>
+				<bCtrlFlg type="number">0</bCtrlFlg>
+				<bCtrlFlg2 type="number">0</bCtrlFlg2>
+				<bHideOtherPlanarTraits type="number">0</bHideOtherPlanarTraits>
+				<bHidePhysicalTraits type="number">0</bHidePhysicalTraits>
+				<bLocked type="number">1</bLocked>
+				<fsDescription type="formattedtext">
+					<p>The shadowfell is a bleak realm that houses both the dead and those among the living who have embraced a dismal existence there.</p>
+					<p>As a shadowy reflection of the world, the Shadowfell can manifest differently to visitors. The plane is an amalgam of differences and similarities to the world. Each person finds something both recognizable and disturbing in its grim landscape.</p>
+				</fsDescription>
+				<fsFeatures type="formattedtext">
+					<p></p>
+				</fsFeatures>
+				<fsGMNotes type="formattedtext">
+					<p></p>
+				</fsGMNotes>
+				<fsMovement type="formattedtext">
+					<p></p>
+				</fsMovement>
+				<fsNatives type="formattedtext">
+					<p>Shadar-Kai</p>
+					<p>Shadowborn</p>
+					<p>Undead</p>
+					<p>Vistani</p>
+				</fsNatives>
+				<lPlaneParentLink type="windowreference">
+					<class></class>
+					<recordname></recordname>
+				</lPlaneParentLink>
+				<locationlist>
+					<id-00001>
+						<lShortcutLink type="windowreference">
+							<class>wcLocation</class>
+							<recordname>MJB_Locations.Location.id-00001</recordname>
+						</lShortcutLink>
+						<name type="string">Shadowfell</name>
+					</id-00001>
+				</locationlist>
+				<maplist>
+				</maplist>
+				<name type="string">Shadowfell</name>
+				<planelist>
+				</planelist>
+				<portallist>
+				</portallist>
+				<sAlignment type="string">Non-Aligned</sAlignment>
+				<sAtmosphere type="string">Normal (A2)</sAtmosphere>
+				<sEnergyPrimary type="string">Negative-Dominant</sEnergyPrimary>
+				<sEnergySecondary type="string">None</sEnergySecondary>
+				<sGravity type="string">Normal (G2)</sGravity>
+				<sMagicTraits type="string">Normal</sMagicTraits>
+				<sMagicTraitsSecondary type="string">None</sMagicTraitsSecondary>
+				<sMorphability type="string">Alterable</sMorphability>
+				<sPlaneType type="string">Material Plane</sPlaneType>
+				<sPressure type="string">Normal (P3)</sPressure>
+				<sRadiation type="string">Normal (R1)</sRadiation>
+				<sSize type="string">Infinite</sSize>
+				<sSpinDirection type="string">Does Not Spin</sSpinDirection>
+				<sTemperature type="string">Normal (T3)</sTemperature>
+				<sTime type="string">Normal</sTime>
+				<sTimeRatio type="string">1:1</sTimeRatio>
+				<sWetness type="string">Normal (H3)</sWetness>
+				<soundlist>
+				</soundlist>
+				<systemlist>
+				</systemlist>
+				<worldlist>
+				</worldlist>
+			</id-00001>
+		</Plane>
+		<Portal>
+		</Portal>
+		<System>
+		</System>
+		<Town>
+			<id-00001>
+				<bCtrlFlg type="number">0</bCtrlFlg>
+				<bCtrlFlg2 type="number">0</bCtrlFlg2>
+				<bLocked type="number">1</bLocked>
+				<buildinglist>
+				</buildinglist>
+				<encounterlist>
+				</encounterlist>
+				<fsGMNotes type="formattedtext">
+					<p></p>
+				</fsGMNotes>
+				<fsHistory type="formattedtext">
+					<p></p>
+				</fsHistory>
+				<lRulerLink type="windowreference">
+					<class>npc</class>
+					<recordname>npc.id-00001</recordname>
+				</lRulerLink>
+				<lTownParentLink type="windowreference">
+					<class>wcLocation</class>
+					<recordname>MJB_Locations.Location.id-00001</recordname>
+				</lTownParentLink>
+				<locationlist>
+				</locationlist>
+				<maplist>
+				</maplist>
+				<nGovConfidence type="number">80</nGovConfidence>
+				<nIncome type="number">0</nIncome>
+				<nPurchaseLimit type="number">0</nPurchaseLimit>
+				<name type="string">Gloomwrought</name>
+				<npclist>
+				</npclist>
+				<orglist>
+				</orglist>
+				<portallist>
+				</portallist>
+				<sAreaMeasure type="string">Acres</sAreaMeasure>
+				<sPopulation type="number">10000</sPopulation>
+				<sRulerName type="string">Prince Rolan</sRulerName>
+				<sRulerStyle type="string">Harsh</sRulerStyle>
+				<sSize type="string">Large</sSize>
+				<sTownParentName type="string">Shadowfell</sTownParentName>
+				<snAreaExp type="number">2</snAreaExp>
+				<snAreaNum type="number">1.6</snAreaNum>
+				<soundlist>
+				</soundlist>
+			</id-00001>
+		</Town>
+		<World>
+		</World>
+	</MJB_Locations>
+	<MJB_Organisations>
+		<id-00001>
+			<buildinglist>
+			</buildinglist>
+			<encounterlist>
+			</encounterlist>
+			<fsBenefits type="formattedtext">
+				<p></p>
+			</fsBenefits>
+			<fsGMNotes type="formattedtext">
+				<p></p>
+			</fsGMNotes>
+			<fsHistory type="formattedtext">
+				<p></p>
+			</fsHistory>
+			<fsObligations type="formattedtext">
+				<p></p>
+			</fsObligations>
+			<lHQLink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</lHQLink>
+			<lLeaderLink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</lLeaderLink>
+			<lOrganisationsParentLink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</lOrganisationsParentLink>
+			<locationlist>
+			</locationlist>
+			<maplist>
+			</maplist>
+			<npclist>
+			</npclist>
+			<orglist>
+			</orglist>
+			<soundlist>
+			</soundlist>
+			<townlist>
+			</townlist>
+		</id-00001>
+	</MJB_Organisations>
+	<MJB_Sound>
+		<AutoSound>
+		</AutoSound>
+		<ChatSound>
+		</ChatSound>
+		<MiniBoard>
+		</MiniBoard>
+		<SoundBoard>
+		</SoundBoard>
+		<SoundSetup>
+		</SoundSetup>
+	</MJB_Sound>
+	<calendar>
+		<public />
+	</calendar>
+	<charsheet>
+	</charsheet>
+	<combattracker>
+		<public />
+	</combattracker>
+	<effects>
+		<public />
+	</effects>
+	<image>
+		<id-00001>
+			<features_image type="image">
+				<drawing>drawings/drawing_1490150415.png</drawing>
+			</features_image>
+			<image type="image">
+				<bitmap>images/Gloomwrought_map.jpg</bitmap>
+			</image>
+			<isidentified type="number">0</isidentified>
+			<name type="string">Gloomwrought_map</name>
+			<play_image type="image">
+				<drawing>drawings/drawing_1490150417.png</drawing>
+			</play_image>
+		</id-00001>
+	</image>
+	<languages>
+		<public />
+		<id-00001>
+			<public />
+			<font type="string">Primordial</font>
+			<name type="string">Primordial</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Aquan</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Elvish</name>
+		</id-00003>
+		<id-00004>
+			<public />
+			<font type="string">Celestial</font>
+			<name type="string">Celestial</name>
+		</id-00004>
+		<id-00005>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Infernal</name>
+		</id-00005>
+		<id-00006>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Gnomish</name>
+		</id-00006>
+		<id-00007>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Undercommon</name>
+		</id-00007>
+		<id-00008>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Draconic</name>
+		</id-00008>
+		<id-00009>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Abyssal</name>
+		</id-00009>
+		<id-00010>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Sylvan</name>
+		</id-00010>
+		<id-00011>
+			<public />
+			<name type="string">Common</name>
+		</id-00011>
+		<id-00012>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Terran</name>
+		</id-00012>
+		<id-00013>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Ignan</name>
+		</id-00013>
+		<id-00014>
+			<public />
+			<name type="string">Deep Speech</name>
+		</id-00014>
+		<id-00015>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Auran</name>
+		</id-00015>
+		<id-00016>
+			<public />
+			<name type="string">Halfling</name>
+		</id-00016>
+		<id-00017>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Orc</name>
+		</id-00017>
+		<id-00018>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Giant</name>
+		</id-00018>
+		<id-00019>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Dwarvish</name>
+		</id-00019>
+		<id-00020>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Goblin</name>
+		</id-00020>
+	</languages>
+	<library>
+	</library>
+	<modifiers>
+		<public />
+	</modifiers>
+	<npc>
+		<id-00001>
+			<public />
+			<abilities>
+				<public />
+				<charisma>
+					<public />
+					<bonus type="number">9</bonus>
+					<score type="number">29</score>
+				</charisma>
+				<constitution>
+					<public />
+					<bonus type="number">8</bonus>
+					<score type="number">26</score>
+				</constitution>
+				<dexterity>
+					<public />
+					<bonus type="number">6</bonus>
+					<score type="number">23</score>
+				</dexterity>
+				<intelligence>
+					<public />
+					<bonus type="number">6</bonus>
+					<score type="number">23</score>
+				</intelligence>
+				<strength>
+					<public />
+					<bonus type="number">7</bonus>
+					<score type="number">24</score>
+				</strength>
+				<wisdom>
+					<public />
+					<bonus type="number">6</bonus>
+					<score type="number">23</score>
+				</wisdom>
+			</abilities>
+			<ac type="number">37</ac>
+			<actions>
+				<public />
+				<id-00001>
+					<public />
+					<desc type="string">Melee Weapon Attack: +26 to hit, reach 5ft., one target. Hit: 28(3d12 + 10) piercing damage.</desc>
+					<name type="string">Swift Blade</name>
+				</id-00001>
+				<id-00003>
+					<public />
+					<desc type="string">Melee Weapon Attack: +26 to hit, reach 5ft., three targets. Hit: 28(3d12 + 10) piercing damage.</desc>
+					<name type="string">Duelist's Flurry</name>
+				</id-00003>
+			</actions>
+			<alignment type="string">Evil</alignment>
+			<cr type="string">17</cr>
+			<damageresistances type="string">necrotic</damageresistances>
+			<hp type="number">270</hp>
+			<innatespells>
+				<public />
+			</innatespells>
+			<lairactions>
+				<public />
+			</lairactions>
+			<languages type="string">Common, Supernal</languages>
+			<legendaryactions>
+				<public />
+			</legendaryactions>
+			<locked type="number">1</locked>
+			<name type="string">Prince Rolan</name>
+			<reactions>
+				<public />
+				<id-00001>
+					<public />
+					<desc type="string">Trigger: An enemy within 100ft that is marked makes an attack that doesn't include Rolan as a target.\nTarget Takes 30 necrotic damage and Rolan gains 30 temporary hit points</desc>
+					<name type="string">Life Siphon</name>
+				</id-00001>
+				<id-00002>
+					<public />
+					<desc type="string">Trigger: Rolan drops to 0 HP\nEffect: Rolan does not die, instead falls unconscious until the start of his next turn. when he gains 135 hit points. All effects on him end and he is insubstaintial until the end of his next turn.</desc>
+					<name type="string">Unnatural Life</name>
+				</id-00002>
+			</reactions>
+			<savingthrows type="string">Str +2, Dex +2, Con +2, Int +2, Wis +2, Cha +2</savingthrows>
+			<senses type="string">darkvision 60ft</senses>
+			<size type="string">Medium</size>
+			<skills type="string">Deception +24, Perception +21, 4Persuasion +24, Insight +21, Intimidation +2</skills>
+			<speed type="string">30</speed>
+			<spells>
+				<public />
+			</spells>
+			<text type="formattedtext">
+				<p></p>
+			</text>
+			<token type="token">tokens/r.png@DD5E SRD Bestiary</token>
+			<traits>
+				<public />
+			</traits>
+			<type type="string">Shadow Humaniod</type>
+			<xp type="number">6400</xp>
+		</id-00001>
+	</npc>
+	<options>
+		<public />
+	</options>
+	<partysheet>
+		<public />
+	</partysheet>
+	<skill>
+	</skill>
+	<spell>
+	</spell>
+</root>

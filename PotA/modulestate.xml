@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<modulestate version="3.3">
+	<module name="DD 5E Basic Rules - Player">
+		<disallow />
+	</module>
+	<module name="DD PHB Deluxe">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD5E SRD Bestiary">
+		<loaded />
+	</module>
+	<module name="DD5E SRD Data">
+		<loaded />
+		<disallow />
+	</module>
+	<module name="DD5E SRD Magic Items">
+		<loaded />
+	</module>
+	<module name="FG Battle Maps">
+		<loaded />
+	</module>
+</modulestate>

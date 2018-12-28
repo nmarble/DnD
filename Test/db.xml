@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="4">
+	<calendar>
+		<public />
+	</calendar>
+	<charsheet>
+		<id-00001>
+			<abilitylist>
+			</abilitylist>
+			<coins>
+				<slot1>
+					<amount type="number">0</amount>
+				</slot1>
+				<slot2>
+					<amount type="number">0</amount>
+				</slot2>
+				<slot3>
+					<amount type="number">0</amount>
+				</slot3>
+				<slot4>
+					<amount type="number">0</amount>
+				</slot4>
+				<slot5>
+					<amount type="number">0</amount>
+				</slot5>
+				<slot6>
+					<amount type="number">0</amount>
+				</slot6>
+			</coins>
+			<encumbrance>
+				<load type="number">0</load>
+			</encumbrance>
+			<inventorylist>
+			</inventorylist>
+			<maincategorylist>
+				<id-00001>
+					<attributelist>
+						<id-00001>
+							<bonus type="number">0</bonus>
+							<dice type="dice"></dice>
+						</id-00001>
+						<id-00002>
+							<bonus type="number">0</bonus>
+							<dice type="dice"></dice>
+						</id-00002>
+					</attributelist>
+					<label type="string">ASDASD</label>
+				</id-00001>
+			</maincategorylist>
+			<token type="token"></token>
+		</id-00001>
+	</charsheet>
+	<combattracker>
+		<public />
+	</combattracker>
+	<effects>
+		<public />
+	</effects>
+	<image>
+		<id-00001>
+			<image type="image">
+				<bitmap>images/Capture.PNG</bitmap>
+			</image>
+			<name type="string">Capture</name>
+		</id-00001>
+	</image>
+	<languages>
+		<public />
+	</languages>
+	<modifiers>
+		<public />
+	</modifiers>
+	<options>
+		<public />
+	</options>
+	<partysheet>
+		<public />
+	</partysheet>
+	<tables>
+	</tables>
+</root>

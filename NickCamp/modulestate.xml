@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<modulestate version="3.2">
+	<module name="Calendars">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD Basic Rules - DM">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD Basic Rules - Player">
+		<disallow />
+	</module>
+	<module name="DD PHB Deluxe">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD5E SRD Bestiary">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD5E SRD Data">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD5E SRD Magic Items">
+		<loaded />
+		<allow />
+	</module>
+	<module name="Default Fumble and Critical Hit Tables">
+		<loaded />
+		<allow />
+	</module>
+</modulestate>

@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:4" integrity="4fb3d423cc8e46be87db0428dcf2e9f72ef1fb2d">
+	<image>
+		<category name="Curse of Strahd - DM Maps" baseicon="8" decalicon="1">
+			<id-00038>
+				<isidentified type="deleted" />
+			</id-00038>
+			<id-00039>
+				<isidentified type="deleted" />
+			</id-00039>
+			<id-00040>
+				<isidentified type="deleted" />
+			</id-00040>
+			<id-00041>
+				<isidentified type="deleted" />
+			</id-00041>
+			<id-00042>
+				<isidentified type="deleted" />
+			</id-00042>
+			<id-00043>
+				<isidentified type="deleted" />
+			</id-00043>
+			<id-00044>
+				<isidentified type="deleted" />
+			</id-00044>
+			<id-00045>
+				<isidentified type="deleted" />
+			</id-00045>
+			<id-00046>
+				<isidentified type="deleted" />
+			</id-00046>
+			<id-00047>
+				<isidentified type="deleted" />
+			</id-00047>
+			<id-00048>
+				<isidentified type="deleted" />
+			</id-00048>
+			<id-00049>
+				<isidentified type="deleted" />
+			</id-00049>
+			<id-00050>
+				<isidentified type="deleted" />
+			</id-00050>
+			<id-00051>
+				<isidentified type="deleted" />
+			</id-00051>
+			<id-00052>
+				<isidentified type="deleted" />
+			</id-00052>
+			<id-00053>
+				<isidentified type="deleted" />
+			</id-00053>
+			<id-00054>
+				<isidentified type="deleted" />
+			</id-00054>
+			<id-00055>
+				<isidentified type="deleted" />
+			</id-00055>
+			<id-00056>
+				<isidentified type="deleted" />
+			</id-00056>
+			<id-00057>
+				<isidentified type="deleted" />
+			</id-00057>
+			<id-00058>
+				<isidentified type="deleted" />
+			</id-00058>
+			<id-00059>
+				<isidentified type="deleted" />
+			</id-00059>
+			<id-00060>
+				<isidentified type="deleted" />
+			</id-00060>
+			<id-00061>
+				<isidentified type="deleted" />
+			</id-00061>
+			<id-00062>
+				<isidentified type="deleted" />
+			</id-00062>
+			<id-00063>
+				<isidentified type="deleted" />
+			</id-00063>
+			<id-00064>
+				<isidentified type="deleted" />
+			</id-00064>
+			<id-00065>
+				<isidentified type="deleted" />
+			</id-00065>
+			<id-00066>
+				<isidentified type="deleted" />
+			</id-00066>
+			<id-00067>
+				<isidentified type="deleted" />
+			</id-00067>
+			<id-00068>
+				<isidentified type="deleted" />
+			</id-00068>
+			<id-00069>
+				<isidentified type="deleted" />
+			</id-00069>
+			<id-00070>
+				<isidentified type="deleted" />
+			</id-00070>
+			<id-00071>
+				<isidentified type="deleted" />
+			</id-00071>
+			<id-00072>
+				<isidentified type="deleted" />
+			</id-00072>
+			<id-00073>
+				<isidentified type="deleted" />
+			</id-00073>
+		</category>
+		<category name="Curse of Strahd - Handouts" baseicon="8" decalicon="1">
+			<id-00204>
+				<isidentified type="deleted" />
+			</id-00204>
+			<id-00205>
+				<isidentified type="deleted" />
+			</id-00205>
+			<id-00206>
+				<isidentified type="deleted" />
+			</id-00206>
+			<id-00207>
+				<isidentified type="deleted" />
+			</id-00207>
+			<id-00208>
+				<isidentified type="deleted" />
+			</id-00208>
+			<id-00209>
+				<isidentified type="deleted" />
+			</id-00209>
+			<id-00210>
+				<isidentified type="deleted" />
+			</id-00210>
+			<id-00211>
+				<isidentified type="deleted" />
+			</id-00211>
+		</category>
+		<category name="Curse of Strahd - Maps" baseicon="8" decalicon="1">
+			<id-00001>
+				<isidentified type="deleted" />
+			</id-00001>
+			<id-00002>
+				<isidentified type="deleted" />
+			</id-00002>
+			<id-00003>
+				<isidentified type="deleted" />
+			</id-00003>
+			<id-00004>
+				<isidentified type="deleted" />
+			</id-00004>
+			<id-00005>
+				<isidentified type="deleted" />
+			</id-00005>
+			<id-00006>
+				<isidentified type="deleted" />
+			</id-00006>
+			<id-00007>
+				<isidentified type="deleted" />
+			</id-00007>
+			<id-00008>
+				<isidentified type="deleted" />
+			</id-00008>
+			<id-00009>
+				<isidentified type="deleted" />
+			</id-00009>
+			<id-00010>
+				<isidentified type="deleted" />
+			</id-00010>
+			<id-00011>
+				<isidentified type="deleted" />
+			</id-00011>
+			<id-00012>
+				<isidentified type="deleted" />
+			</id-00012>
+			<id-00013>
+				<isidentified type="deleted" />
+			</id-00013>
+			<id-00014>
+				<isidentified type="deleted" />
+			</id-00014>
+			<id-00015>
+				<isidentified type="deleted" />
+			</id-00015>
+			<id-00016>
+				<isidentified type="deleted" />
+			</id-00016>
+			<id-00017>
+				<isidentified type="deleted" />
+			</id-00017>
+			<id-00018>
+				<isidentified type="deleted" />
+			</id-00018>
+			<id-00019>
+				<isidentified type="deleted" />
+			</id-00019>
+			<id-00020>
+				<isidentified type="deleted" />
+			</id-00020>
+			<id-00021>
+				<isidentified type="deleted" />
+			</id-00021>
+			<id-00022>
+				<isidentified type="deleted" />
+			</id-00022>
+			<id-00023>
+				<isidentified type="deleted" />
+			</id-00023>
+			<id-00024>
+				<isidentified type="deleted" />
+			</id-00024>
+			<id-00025>
+				<isidentified type="deleted" />
+			</id-00025>
+			<id-00140>
+				<isidentified type="deleted" />
+			</id-00140>
+			<id-00141>
+				<isidentified type="deleted" />
+			</id-00141>
+			<id-00142>
+				<isidentified type="deleted" />
+			</id-00142>
+			<id-00143>
+				<isidentified type="deleted" />
+			</id-00143>
+			<id-00144>
+				<isidentified type="deleted" />
+			</id-00144>
+			<id-00145>
+				<isidentified type="deleted" />
+			</id-00145>
+			<id-00146>
+				<isidentified type="deleted" />
+			</id-00146>
+			<id-00147>
+				<isidentified type="deleted" />
+			</id-00147>
+			<id-00148>
+				<isidentified type="deleted" />
+			</id-00148>
+		</category>
+		<category name="Curse of Strahd - Monsters" baseicon="8" decalicon="1">
+			<id-00026>
+				<isidentified type="deleted" />
+			</id-00026>
+			<id-00030>
+				<isidentified type="deleted" />
+			</id-00030>
+			<id-00086>
+				<isidentified type="deleted" />
+			</id-00086>
+			<id-00104>
+				<isidentified type="deleted" />
+			</id-00104>
+			<id-00113>
+				<isidentified type="deleted" />
+			</id-00113>
+			<id-00130>
+				<isidentified type="deleted" />
+			</id-00130>
+			<id-00213>
+				<isidentified type="deleted" />
+			</id-00213>
+			<id-00214>
+				<isidentified type="deleted" />
+			</id-00214>
+			<id-00215>
+				<isidentified type="deleted" />
+			</id-00215>
+			<id-00216>
+				<isidentified type="deleted" />
+			</id-00216>
+			<id-00217>
+				<isidentified type="deleted" />
+			</id-00217>
+			<id-00218>
+				<isidentified type="deleted" />
+			</id-00218>
+			<id-00219>
+				<isidentified type="deleted" />
+			</id-00219>
+			<id-00220>
+				<isidentified type="deleted" />
+			</id-00220>
+			<id-00221>
+				<isidentified type="deleted" />
+			</id-00221>
+			<id-00222>
+				<isidentified type="deleted" />
+			</id-00222>
+			<id-00223>
+				<isidentified type="deleted" />
+			</id-00223>
+			<id-00224>
+				<isidentified type="deleted" />
+			</id-00224>
+			<id-00225>
+				<isidentified type="deleted" />
+			</id-00225>
+			<id-00226>
+				<isidentified type="deleted" />
+			</id-00226>
+			<id-00227>
+				<isidentified type="deleted" />
+			</id-00227>
+			<id-00228>
+				<isidentified type="deleted" />
+			</id-00228>
+			<id-00229>
+				<isidentified type="deleted" />
+			</id-00229>
+			<id-00230>
+				<isidentified type="deleted" />
+			</id-00230>
+			<id-00231>
+				<isidentified type="deleted" />
+			</id-00231>
+			<id-00232>
+				<isidentified type="deleted" />
+			</id-00232>
+			<id-00233>
+				<isidentified type="deleted" />
+			</id-00233>
+			<id-00234>
+				<isidentified type="deleted" />
+			</id-00234>
+			<id-00235>
+				<isidentified type="deleted" />
+			</id-00235>
+			<id-00236>
+				<isidentified type="deleted" />
+			</id-00236>
+			<id-00237>
+				<isidentified type="deleted" />
+			</id-00237>
+			<id-00238>
+				<isidentified type="deleted" />
+			</id-00238>
+			<id-00239>
+				<isidentified type="deleted" />
+			</id-00239>
+			<id-00240>
+				<isidentified type="deleted" />
+			</id-00240>
+			<id-00241>
+				<isidentified type="deleted" />
+			</id-00241>
+			<id-00242>
+				<isidentified type="deleted" />
+			</id-00242>
+			<id-00243>
+				<isidentified type="deleted" />
+			</id-00243>
+			<id-00244>
+				<isidentified type="deleted" />
+			</id-00244>
+			<id-00245>
+				<isidentified type="deleted" />
+			</id-00245>
+			<id-00246>
+				<isidentified type="deleted" />
+			</id-00246>
+			<id-00247>
+				<isidentified type="deleted" />
+			</id-00247>
+			<id-00248>
+				<isidentified type="deleted" />
+			</id-00248>
+			<id-00249>
+				<isidentified type="deleted" />
+			</id-00249>
+			<id-00250>
+				<isidentified type="deleted" />
+			</id-00250>
+			<id-00251>
+				<isidentified type="deleted" />
+			</id-00251>
+			<id-00252>
+				<isidentified type="deleted" />
+			</id-00252>
+			<id-00253>
+				<isidentified type="deleted" />
+			</id-00253>
+			<id-00254>
+				<isidentified type="deleted" />
+			</id-00254>
+			<id-00255>
+				<isidentified type="deleted" />
+			</id-00255>
+			<id-00256>
+				<isidentified type="deleted" />
+			</id-00256>
+			<id-00257>
+				<isidentified type="deleted" />
+			</id-00257>
+			<id-00258>
+				<isidentified type="deleted" />
+			</id-00258>
+			<id-00259>
+				<isidentified type="deleted" />
+			</id-00259>
+			<id-00260>
+				<isidentified type="deleted" />
+			</id-00260>
+			<id-00261>
+				<isidentified type="deleted" />
+			</id-00261>
+			<id-00262>
+				<isidentified type="deleted" />
+			</id-00262>
+			<id-00263>
+				<isidentified type="deleted" />
+			</id-00263>
+			<id-00264>
+				<isidentified type="deleted" />
+			</id-00264>
+			<id-00265>
+				<isidentified type="deleted" />
+			</id-00265>
+			<id-00266>
+				<isidentified type="deleted" />
+			</id-00266>
+			<id-00267>
+				<isidentified type="deleted" />
+			</id-00267>
+			<id-00268>
+				<isidentified type="deleted" />
+			</id-00268>
+			<id-00269>
+				<isidentified type="deleted" />
+			</id-00269>
+			<id-00270>
+				<isidentified type="deleted" />
+			</id-00270>
+			<id-00271>
+				<isidentified type="deleted" />
+			</id-00271>
+			<id-00272>
+				<isidentified type="deleted" />
+			</id-00272>
+			<id-00273>
+				<isidentified type="deleted" />
+			</id-00273>
+			<id-00274>
+				<isidentified type="deleted" />
+			</id-00274>
+			<id-00275>
+				<isidentified type="deleted" />
+			</id-00275>
+		</category>
+		<category name="Curse of Strahd - NPCs" baseicon="8" decalicon="1">
+			<id-00027>
+				<isidentified type="deleted" />
+			</id-00027>
+			<id-00028>
+				<isidentified type="deleted" />
+			</id-00028>
+			<id-00029>
+				<isidentified type="deleted" />
+			</id-00029>
+			<id-00034>
+				<isidentified type="deleted" />
+			</id-00034>
+			<id-00037>
+				<isidentified type="deleted" />
+			</id-00037>
+			<id-00074>
+				<isidentified type="deleted" />
+			</id-00074>
+			<id-00075>
+				<isidentified type="deleted" />
+			</id-00075>
+			<id-00076>
+				<isidentified type="deleted" />
+			</id-00076>
+			<id-00078>
+				<isidentified type="deleted" />
+			</id-00078>
+			<id-00079>
+				<isidentified type="deleted" />
+			</id-00079>
+			<id-00080>
+				<isidentified type="deleted" />
+			</id-00080>
+			<id-00082>
+				<isidentified type="deleted" />
+			</id-00082>
+			<id-00083>
+				<isidentified type="deleted" />
+			</id-00083>
+			<id-00085>
+				<isidentified type="deleted" />
+			</id-00085>
+			<id-00088>
+				<isidentified type="deleted" />
+			</id-00088>
+			<id-00092>
+				<isidentified type="deleted" />
+			</id-00092>
+			<id-00093>
+				<isidentified type="deleted" />
+			</id-00093>
+			<id-00096>
+				<isidentified type="deleted" />
+			</id-00096>
+			<id-00097>
+				<isidentified type="deleted" />
+			</id-00097>
+			<id-00098>
+				<isidentified type="deleted" />
+			</id-00098>
+			<id-00099>
+				<isidentified type="deleted" />
+			</id-00099>
+			<id-00100>
+				<isidentified type="deleted" />
+			</id-00100>
+			<id-00103>
+				<isidentified type="deleted" />
+			</id-00103>
+			<id-00105>
+				<isidentified type="deleted" />
+			</id-00105>
+			<id-00106>
+				<isidentified type="deleted" />
+			</id-00106>
+			<id-00108>
+				<isidentified type="deleted" />
+			</id-00108>
+			<id-00111>
+				<isidentified type="deleted" />
+			</id-00111>
+			<id-00116>
+				<isidentified type="deleted" />
+			</id-00116>
+			<id-00117>
+				<isidentified type="deleted" />
+			</id-00117>
+			<id-00118>
+				<isidentified type="deleted" />
+			</id-00118>
+			<id-00122>
+				<isidentified type="deleted" />
+			</id-00122>
+			<id-00126>
+				<isidentified type="deleted" />
+			</id-00126>
+			<id-00133>
+				<isidentified type="deleted" />
+			</id-00133>
+			<id-00137>
+				<isidentified type="deleted" />
+			</id-00137>
+			<id-00138>
+				<isidentified type="deleted" />
+			</id-00138>
+			<id-00139>
+				<isidentified type="deleted" />
+			</id-00139>
+		</category>
+		<category name="Curse of Strahd - Portraits" baseicon="8" decalicon="1">
+			<id-00031>
+				<isidentified type="deleted" />
+			</id-00031>
+			<id-00032>
+				<isidentified type="deleted" />
+			</id-00032>
+			<id-00033>
+				<isidentified type="deleted" />
+			</id-00033>
+			<id-00035>
+				<isidentified type="deleted" />
+			</id-00035>
+			<id-00036>
+				<isidentified type="deleted" />
+			</id-00036>
+			<id-00077>
+				<isidentified type="deleted" />
+			</id-00077>
+			<id-00081>
+				<isidentified type="deleted" />
+			</id-00081>
+			<id-00084>
+				<isidentified type="deleted" />
+			</id-00084>
+			<id-00087>
+				<isidentified type="deleted" />
+			</id-00087>
+			<id-00089>
+				<isidentified type="deleted" />
+			</id-00089>
+			<id-00090>
+				<isidentified type="deleted" />
+			</id-00090>
+			<id-00091>
+				<isidentified type="deleted" />
+			</id-00091>
+			<id-00110>
+				<isidentified type="deleted" />
+			</id-00110>
+			<id-00115>
+				<isidentified type="deleted" />
+			</id-00115>
+		</category>
+		<category name="Curse of Strahd - Tarokka" baseicon="8" decalicon="1">
+			<id-00153>
+				<isidentified type="deleted" />
+			</id-00153>
+			<id-00154>
+				<isidentified type="deleted" />
+			</id-00154>
+			<id-00167>
+				<isidentified type="deleted" />
+			</id-00167>
+			<id-00174>
+				<isidentified type="deleted" />
+			</id-00174>
+			<id-00178>
+				<isidentified type="deleted" />
+			</id-00178>
+			<id-00180>
+				<isidentified type="deleted" />
+			</id-00180>
+			<id-00189>
+				<isidentified type="deleted" />
+			</id-00189>
+			<id-00195>
+				<isidentified type="deleted" />
+			</id-00195>
+			<id-00196>
+				<isidentified type="deleted" />
+			</id-00196>
+			<id-00200>
+				<isidentified type="deleted" />
+			</id-00200>
+			<id-00212>
+				<isidentified type="deleted" />
+			</id-00212>
+		</category>
+		<category name="Curse of Strahd Magic Items" baseicon="0" decalicon="0">
+			<id-00276>
+				<isidentified type="deleted" />
+			</id-00276>
+			<id-00277>
+				<isidentified type="deleted" />
+			</id-00277>
+			<id-00278>
+				<isidentified type="deleted" />
+			</id-00278>
+			<id-00279>
+				<isidentified type="deleted" />
+			</id-00279>
+			<id-00280>
+				<isidentified type="deleted" />
+			</id-00280>
+			<id-00281>
+				<isidentified type="deleted" />
+			</id-00281>
+			<id-00282>
+				<isidentified type="deleted" />
+			</id-00282>
+			<id-00283>
+				<isidentified type="deleted" />
+			</id-00283>
+			<id-00284>
+				<isidentified type="deleted" />
+			</id-00284>
+			<id-00285>
+				<isidentified type="deleted" />
+			</id-00285>
+			<id-00286>
+				<isidentified type="deleted" />
+			</id-00286>
+			<id-00287>
+				<isidentified type="deleted" />
+			</id-00287>
+			<id-00288>
+				<isidentified type="deleted" />
+			</id-00288>
+			<id-00289>
+				<isidentified type="deleted" />
+			</id-00289>
+			<id-00290>
+				<isidentified type="deleted" />
+			</id-00290>
+			<id-00291>
+				<isidentified type="deleted" />
+			</id-00291>
+			<id-00292>
+				<isidentified type="deleted" />
+			</id-00292>
+		</category>
+	</image>
+	<item>
+		<category name="Curse of Strahd - Magic Items" baseicon="8" decalicon="1">
+			<id-00002>
+				<isidentified type="deleted" />
+			</id-00002>
+			<id-00003>
+				<isidentified type="deleted" />
+			</id-00003>
+			<id-00004>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00004>
+			<id-00005>
+				<isidentified type="deleted" />
+			</id-00005>
+			<id-00006>
+				<isidentified type="deleted" />
+			</id-00006>
+			<id-00007>
+				<isidentified type="deleted" />
+			</id-00007>
+			<id-00008>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00008>
+			<id-00009>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00009>
+			<id-00010>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00010>
+			<id-00015>
+				<isidentified type="deleted" />
+			</id-00015>
+			<id-00023>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00023>
+			<id-00024>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00024>
+			<id-00025>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00025>
+			<id-00026>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00026>
+			<id-00027>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00027>
+			<id-00028>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00028>
+			<id-00029>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00029>
+			<id-00030>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00030>
+			<id-00031>
+				<isidentified type="deleted" />
+			</id-00031>
+			<id-00032>
+				<isidentified type="deleted" />
+			</id-00032>
+			<id-00033>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00033>
+			<id-00035>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00035>
+			<id-00036>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00036>
+			<id-00041>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00041>
+			<id-00043>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00043>
+			<id-00044>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00044>
+			<id-00045>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00045>
+			<id-00046>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00046>
+			<id-00047>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00047>
+			<id-00048>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00048>
+			<id-00049>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00049>
+			<id-00050>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00050>
+			<id-00061>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00061>
+			<id-00062>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00062>
+			<id-00063>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00063>
+			<id-00066>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00066>
+			<id-00067>
+				<isidentified type="deleted" />
+			</id-00067>
+			<id-00068>
+				<isidentified type="deleted" />
+			</id-00068>
+			<id-00069>
+				<isidentified type="deleted" />
+			</id-00069>
+			<id-00070>
+				<isidentified type="deleted" />
+			</id-00070>
+			<id-00071>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00071>
+			<id-00072>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00072>
+			<id-00074>
+				<isidentified type="deleted" />
+			</id-00074>
+			<id-00075>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00075>
+			<id-00076>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00076>
+			<id-00077>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00077>
+			<id-00078>
+				<isidentified type="deleted" />
+			</id-00078>
+			<id-00079>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00079>
+			<id-00081>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00081>
+			<id-00082>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00082>
+			<id-00083>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00083>
+			<id-00084>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00084>
+			<id-00085>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00085>
+			<id-00086>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00086>
+			<id-00096>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00096>
+			<id-00097>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00097>
+			<id-00098>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00098>
+			<id-00099>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00099>
+			<id-00100>
+				<isidentified type="deleted" />
+			</id-00100>
+			<id-00101>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00101>
+			<id-00102>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00102>
+			<id-00103>
+				<isidentified type="deleted" />
+			</id-00103>
+			<id-00105>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00105>
+			<id-00107>
+				<isidentified type="deleted" />
+			</id-00107>
+			<id-00114>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00114>
+			<id-00115>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00115>
+			<id-00116>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00116>
+			<id-00117>
+				<isidentified type="deleted" />
+				<category name="DD Curse of Strahd" baseicon="0" decalicon="0">
+				</category>
+			</id-00117>
+		</category>
+		<category name="Curse of Strahd - Quest Items" baseicon="8" decalicon="1">
+			<id-00001>
+				<isidentified type="deleted" />
+			</id-00001>
+			<id-00087>
+				<isidentified type="deleted" />
+			</id-00087>
+			<id-00123>
+				<isidentified type="deleted" />
+			</id-00123>
+		</category>
+		<category name="Curse of Strahd - Treasure and Equipment" baseicon="8" decalicon="1">
+			<id-00011>
+				<isidentified type="deleted" />
+			</id-00011>
+			<id-00012>
+				<isidentified type="deleted" />
+			</id-00012>
+			<id-00013>
+				<isidentified type="deleted" />
+			</id-00013>
+			<id-00014>
+				<isidentified type="deleted" />
+			</id-00014>
+			<id-00016>
+				<isidentified type="deleted" />
+			</id-00016>
+			<id-00017>
+				<isidentified type="deleted" />
+			</id-00017>
+			<id-00018>
+				<isidentified type="deleted" />
+			</id-00018>
+			<id-00019>
+				<isidentified type="deleted" />
+			</id-00019>
+			<id-00020>
+				<isidentified type="deleted" />
+			</id-00020>
+			<id-00021>
+				<isidentified type="deleted" />
+			</id-00021>
+			<id-00022>
+				<isidentified type="deleted" />
+			</id-00022>
+			<id-00034>
+				<isidentified type="deleted" />
+			</id-00034>
+			<id-00037>
+				<isidentified type="deleted" />
+			</id-00037>
+			<id-00038>
+				<isidentified type="deleted" />
+			</id-00038>
+			<id-00039>
+				<isidentified type="deleted" />
+			</id-00039>
+			<id-00040>
+				<isidentified type="deleted" />
+			</id-00040>
+			<id-00042>
+				<isidentified type="deleted" />
+			</id-00042>
+			<id-00051>
+				<isidentified type="deleted" />
+			</id-00051>
+			<id-00052>
+				<isidentified type="deleted" />
+			</id-00052>
+			<id-00053>
+				<isidentified type="deleted" />
+			</id-00053>
+			<id-00054>
+				<isidentified type="deleted" />
+			</id-00054>
+			<id-00055>
+				<isidentified type="deleted" />
+			</id-00055>
+			<id-00056>
+				<isidentified type="deleted" />
+			</id-00056>
+			<id-00057>
+				<isidentified type="deleted" />
+			</id-00057>
+			<id-00058>
+				<isidentified type="deleted" />
+			</id-00058>
+			<id-00059>
+				<isidentified type="deleted" />
+			</id-00059>
+			<id-00060>
+				<isidentified type="deleted" />
+			</id-00060>
+			<id-00064>
+				<isidentified type="deleted" />
+			</id-00064>
+			<id-00065>
+				<isidentified type="deleted" />
+			</id-00065>
+			<id-00073>
+				<isidentified type="deleted" />
+			</id-00073>
+			<id-00080>
+				<isidentified type="deleted" />
+			</id-00080>
+			<id-00088>
+				<isidentified type="deleted" />
+			</id-00088>
+			<id-00089>
+				<isidentified type="deleted" />
+			</id-00089>
+			<id-00090>
+				<isidentified type="deleted" />
+			</id-00090>
+			<id-00091>
+				<isidentified type="deleted" />
+			</id-00091>
+			<id-00092>
+				<isidentified type="deleted" />
+			</id-00092>
+			<id-00093>
+				<isidentified type="deleted" />
+			</id-00093>
+			<id-00094>
+				<isidentified type="deleted" />
+			</id-00094>
+			<id-00095>
+				<isidentified type="deleted" />
+			</id-00095>
+			<id-00104>
+				<isidentified type="deleted" />
+			</id-00104>
+			<id-00106>
+				<isidentified type="deleted" />
+			</id-00106>
+			<id-00108>
+				<isidentified type="deleted" />
+			</id-00108>
+			<id-00109>
+				<isidentified type="deleted" />
+			</id-00109>
+			<id-00110>
+				<isidentified type="deleted" />
+			</id-00110>
+			<id-00111>
+				<isidentified type="deleted" />
+			</id-00111>
+			<id-00112>
+				<isidentified type="deleted" />
+			</id-00112>
+			<id-00113>
+				<isidentified type="deleted" />
+			</id-00113>
+			<id-00118>
+				<isidentified type="deleted" />
+			</id-00118>
+			<id-00119>
+				<isidentified type="deleted" />
+			</id-00119>
+			<id-00120>
+				<isidentified type="deleted" />
+			</id-00120>
+			<id-00121>
+				<isidentified type="deleted" />
+			</id-00121>
+			<id-00122>
+				<isidentified type="deleted" />
+			</id-00122>
+		</category>
+	</item>
+</root>

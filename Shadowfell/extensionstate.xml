@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<extensionstate version="3.2">
+	<extension name="Enhanced Images">
+		<loaded />
+	</extension>
+	<extension name="DOEBase">
+		<loaded />
+	</extension>
+	<extension name="DOELocations">
+		<loaded />
+	</extension>
+	<extension name="DOEOrganisations">
+		<loaded />
+	</extension>
+	<extension name="DOESound">
+		<loaded />
+	</extension>
+	<extension name="Decal_PHB">
+		<loaded />
+	</extension>
+</extensionstate>
