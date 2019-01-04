@@ -1,5 +1,794 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <root version="3.3" release="8|CoreRPG:4" integrity="4fb3d423cc8e46be87db0428dcf2e9f72ef1fb2d">
+	<encounter>
+		<category name="CoS 00. Curse of Strahd" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 01. Chapter 1: Into the Mists" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 02. Chapter 2: The Lands of Barovia" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 03. Chapter 3: The Village of Barovia" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 04. Chapter 4: Castle Ravenloft" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 05. Chapter 5: The Town of Vallaki" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 06. Chapter 6: Old Bonegrinder" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 07. Chapter 7: Argynvostholt" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 08. Chapter 8: The Village of Krezk" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 09. Chapter 9: Tsolenka Pass" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 10. Chapter 10: The Ruins of Berez" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 11. Chapter 11: Van Richten's Tower" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 12. Chapter 12: The Wizard of Wines" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 13. Chapter 13: The Amber Temple" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 14. Chapter 14: Yester Hill" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 15. Chapter 15: Werewolf Den" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 16. Epilogue" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 17. Appendix A: Character Options" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 18. Appendix B: Death House" baseicon="0" decalicon="0">
+			<enc_18_01history>
+				<locked type="number">0</locked>
+				<text type="formattedtext">
+					<p>Death House is the name given to an old row house in the village of Barovia (area E7 on the village map). The house has been burned to the ground many times, only to rise from the ashes time and again - by its own will or that of Strahd. Locals give the building a wide berth for fear of antagonizing the evil spirits believed to haunt it.</p>
+					<p>The wealthy family that built the house practiced the dark arts. Through seduction and indoctrination, they expanded their cult to include a small yet nefarious circle of friends. When word got out, the rest of the village turned a blind eye to the house and the nightly debaucheries happening within it.</p>
+					<p>The cult tried to summon malevolent extraplanar entities with no success. The cultists also preyed on visitors, sacrificed them in bizarre rituals, and hosted morbid banquets to feast on their corpses. When nothing came of these ritualized murders, the cultists' activities became thinly disguised excuses to indulge their lurid fantasies. The ranks of the cult thinned as members began to lose interest in the debacle.</p>
+					<p>Then Strahd von Zarovich arrived.</p>
+					<p>The cultists regarded Strahd as a messiah sent to them by the Dark Powers. Drawn to Strahd like moths to a flame, they pledged their devotion for a promise of immortality, but Strahd turned them away, deeming the cult and its leaders unworthy of his attention. The cultists withdrew to Death House in despair.</p>
+					<p>The cult's habit of trapping and devouring wayward visitors proved to be its downfall. On one occasion, the cult snared a band of adventurers whom Strahd had lured to his domain to be his playthings. A black carriage arrived at Death House soon thereafter, and from out of its black heart stepped the vampire himself. The cultists tried to impress Strahd. In response, he slaughtered them for slaying his playthings. Centuries later, the cultists' spirits haunt the dungeons under the house. The building itself, it seems, is unwilling to let the cult be forgotten.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_02roseandthorn@DD Curse of Strahd">Next - Rose and Thorn</link>
+					</linklist>
+				</text>
+			</enc_18_01history>
+			<enc_18_02roseandthorn>
+				<locked type="number">0</locked>
+			</enc_18_02roseandthorn>
+			<enc_18_03_01_entrance>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>1. Entrance</h>
+					<p>A wrought-iron gate with hinges on one side and a lock on the other fills the archway of a stone portico (area 1A). The gate is unlocked, and its rusty hinges shriek when the gate is opened. Oil lamps hang from the portico ceiling by chains, flanking a set of oaken doors that open into a grand foyer (area 1B).</p>
+					<p>Hanging on the south wall of the foyer is a shield emblazoned with a coat-of-arms (a stylized golden windmill on a red field), flanked by framed portraits of stony-faced aristocrats (long-dead members of the Durst family). Mahogany-framed double doors leading from the foyer to the main hall (area 2A) are set with panes of stained glass.</p>
+					<h>Sublocations</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00004@DD Curse of Strahd">1A. Entrance</link>
+						<link class="encounter" recordname="encounter.id-00005@DD Curse of Strahd">1B. Grand Foyer</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_01_entrance>
+			<enc_18_03_02_mainhall>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>2. Main Hall</h>
+					<p>A wide hall (area 2A) runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other. Mounted on the wall above the fireplace is a longsword (nonmagical) with a windmill cameo worked into the hilt. The wood-paneled walls are ornately sculpted with images of vines, flowers, nymphs, and satyrs. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom (Perception) check, see serpents and skulls inconspicuously woven into the wall designs. The decorative paneling follows the staircase as it circles upward to the second floor.</p>
+					<p>A cloakroom (area 2B) has several black cloaks hanging from hooks on the walls. A top hat sits on a high shelf.</p>
+					<h>Sublocations</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00006@DD Curse of Strahd">2A. Main Hall</link>
+						<link class="encounter" recordname="encounter.id-00007@DD Curse of Strahd">2B. Cloakroom</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_02_mainhall>
+			<enc_18_03_03_denofwolves>
+				<locked type="number">0</locked>
+				<text type="formattedtext">
+					<h>3. Den of Wolves</h>
+					<p>This oak-paneled room looks like a hunter's den. Mounted above the fireplace is a stag's head, and positioned around the outskirts of the room are three stuffed wolves.</p>
+					<p>Two padded chairs draped in animal furs face the hearth, with an oak table between them supporting a cask of wine, two carved wooden goblets, a pipe rack, and a candelabrum. A chandelier hangs above a cloth-covered table surrounded by four chairs.</p>
+					<p>Two cabinets stand against the walls. The east cabinet sports a lock that can be picked with thieves' tools and a successful DC 15 Dexterity check. It holds a heavy crossbow, a light crossbow, a hand crossbow, and 20 bolts for each weapon. The north cabinet is unlocked and holds a small box containing a deck of playing cards and an assortment of wine glasses.</p>
+					<h>Trapdoor</h>
+					<p>A trapdoor is hidden in the southwest corner of the floor. It can't be detected or opened until the characters approach it from the underside (see area 32). Until then, Death House supernaturally hides the trapdoor.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_03_denofwolves>
+			<enc_18_03_04_kitchenandpantry>
+				<locked type="number">0</locked>
+				<text type="formattedtext">
+					<h>4. Kitchen and Pantry</h>
+					<p>The kitchen (area 4A) is tidy, with dishware, cookware, and utensils neatly placed on shelves. A worktable has a cutting board and rolling pin atop it. A stone, dome-shaped oven stands near the east wall, its bent iron stovepipe connecting to a hole in the ceiling. Behind the stove and to the left is a thin door leading to a well-stocked pantry (area 4B). All the food in the pantry appears fresh but tastes bland.</p>
+					<h>Dumbwaiter</h>
+					<p>Behind a small door in the southwest corner of the kitchen is a dumbwaiter - a 2-foot-wide stone shaft containing a wooden elevator box attached to a simple rope-and-pulley mechanism that must be operated manually. The shaft connects to areas 7A (the servants' quarters) and 12A (the master bedroom). Hanging on the wall next to the dumbwaiter is a tiny brass bell attached by wires to buttons in those other areas.</p>
+					<p>A Small character can squeeze into the elevator box with a successful DC 10 Dexterity (Acrobatics) check. The dumbwaiter's rope-and-pulley mechanism can support 200 pounds of weight before breaking.</p>
+					<h>Sublocations</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00008@DD Curse of Strahd">4A. Kitchen</link>
+						<link class="encounter" recordname="encounter.id-00009@DD Curse of Strahd">4B. Pantry</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_04_kitchenandpantry>
+			<enc_18_03_05_diningroom>
+				<locked type="number">0</locked>
+				<text type="formattedtext">
+					<h>5. Dining Room</h>
+					<p>The centerpiece of this wood-paneled dining room is a carved mahogany table surrounded by eight high-backed chairs with sculpted armrests and cushioned seats. A crystal chandelier hangs above the table, which is covered with resplendent silverware and crystal-ware polished to a dazzling shine. Mounted above the marble fireplace is a mahogany-framed painting of an alpine vale.</p>
+					<p>The wall paneling is carved with elegant images of deer among the trees. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom (Perception) check, see twisted faces carved into the tree trunks and wolves lurking amid the carved foliage.</p>
+					<p>Red silk drapes cover the windows, and a tapestry depicting hunting dogs and horse-mounted aristocrats chasing after a wolf hangs from an iron rod bolted to the south wall.</p>
+					<p>The silverware tarnishes, the crystal cracks, the portrait fades, and the tapestry rots if removed from the house.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_05_diningroom>
+			<enc_18_03_06_upperhall>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>6. Upper Hall</h>
+					<p>Unlit oil lamps are mounted on the walls of this elegant hall. Hanging above the mantelpiece is a wood-framed portrait of the Durst family: Gustav and Elisabeth Durst with their two smiling children, Rose and Thorn. Cradled in the father's arms is a swaddled baby, which the mother regards with a hint of scorn.</p>
+					<p>Standing suits of armor flank wooden doors in the east and west walls. Each suit of armor clutches a spear and has a visored helm shaped like a wolf's head. The doors are carved with dancing youths, although close inspection and a successful DC 12 Wisdom (Perception) check reveals that the youths aren't really dancing but fighting off swarms of bats.</p>
+					<p>The red marble staircase that started on the first floor continues its upward spiral to area 11. A cold draft can be felt coming down the steps.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_06_upperhall>
+			<enc_18_03_07_servants_room>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>7. Servants' Room</h>
+					<p>An undecorated bedroom (area 7A) contains a pair of beds with straw-stuffed mattresses. At the foot of each bed is an empty footlocker. Tidy servants' uniforms hang from hooks in the adjoining closet (area 7B).</p>
+					<h>Dumbwaiter</h>
+					<p>A dumbwaiter in the corner of the west wall has a button on the wall next to it. Pressing the button rings the tiny bell in area 4A.</p>
+					<h>Sublocations</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00010@DD Curse of Strahd">7A. Servants' Room</link>
+						<link class="encounter" recordname="encounter.id-00011@DD Curse of Strahd">7B. Servants' Closet</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_07_servants_room>
+			<enc_18_03_08_library>
+				<locked type="number">0</locked>
+				<text type="formattedtext">
+					<h>8. Library</h>
+					<p>The master of the house used to spend many hours here before his descent into madness.</p>
+					<frame>Red velvet drapes cover the windows of this room. An exquisite mahogany desk and a matching high-back chair face the entrance and the fireplace, above which hangs a framed picture of a windmill perched atop a rocky crag. Situated in corners of the room are two overstuffed chairs. Floor-to-ceiling bookshelves line the south wall. A rolling wooden ladder allows one to more easily reach the high shelves.</frame>
+					<p>The desk has several items resting atop it: an oil lamp, a jar of ink, a quill pen, a tinderbox, and a letter kit containing a red wax candle, four blank sheets of parchment, and a wooden seal bearing the Durst family's insignia (a windmill). The desk drawer is empty except for an iron key, which unlocks the door to area 20.</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.id-00092@DD Curse of Strahd">Parcel: Iron Key</link>
+					</linklist>
+					<p>The bookshelves hold hundreds of tomes covering a range of topics including history, warfare, and alchemy. There are also several shelves containing first-edition collected works of poetry and fiction. The books rot and fall apart if taken from the house.</p>
+					<h>Secret Door</h>
+					<p>A secret door behind one bookshelf can be unlocked and swung open by pulling on a switch disguised to look like a red-covered book with a blank spine. A character inspecting the bookshelf spots the fake book with a successful DC 13 Wisdom (Perception) check. Unless the secret door is propped open, springs in the hinges cause it to close on its own. Beyond the secret door lies area 9.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_08_library>
+			<enc_18_03_09_secretroom>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>9. Secret Room</h>
+					<p>This secret room contains bookshelves packed with tomes describing fiend-summoning rituals and the necromantic rituals of a cult called the Priests of Osybus. The rituals are bogus, which any character can ascertain after studying the books for 1 hour and succeeding on a DC 12 Intelligence (Arcana) check.</p>
+					<p>A heavy wooden chest with clawed iron feet stands against the south wall, its lid half-closed. Sticking out of the chest is a skeleton in leather armor. Close inspection reveals that the skeleton belongs to a human who triggered a poisoned dart trap. Three darts are stuck in the dead adventurer's armor and ribcage. The dart-firing mechanism inside the chest no longer functions.</p>
+					<p>Clutched in the skeleton's left hand is a letter bearing the seal of Strahd von Zarovich, which the adventurer tried to remove from the chest. Written in flowing script, the letter reads as follows:</p>
+					<frame>My most pathetic servant,&#13;I am not a messiah sent to you by the Dark Powers of this land. I have not come to lead you on a path to immortality. However many souls you have bled on your hidden altar, however many visitors you have tortured in your dungeon, know that you are not the ones who brought me to this beautiful land. You are but worms writhing in my earth.&#13;You say that you are cursed, your fortunes spent. You abandoned love for madness, took solace in the bosom of another woman, and sired a stillborn son. Cursed by darkness? Of that I have no doubt. Save you from your wretchedness? I think not. I much prefer you as you are.&#13;&#13;Your dread lord and master,&#13;Strahd von Zarovich</frame>
+					<h>Treasure</h>
+					<p>The chest contains three blank books with black leather covers (worth 25 gp each), three <i>spell scrolls </i>( <i>bless, protection from poison, </i>and <i>spiritual weapon </i>), the deed to the house, the deed to a windmill, and a signed will. The windmill referred to in the second deed is situated in the mountains east of Vallaki (see chapter 6, &#34;Old Bonegrinder&#34;). The will is signed by Gustav and Elisabeth Durst and bequeathes the house, the windmill, and all other family property to Rosavalda and Thornboldt Durst in the event of their parents' deaths. The books, scrolls, deeds, and will age markedly if taken from the house but remain intact.</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.id-00079@DD Curse of Strahd">Parcel: Secret Room</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_09_secretroom>
+			<enc_18_03_10_conservatory>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>10. Conservatory</h>
+					<p>Gossamer drapes cover the windows of this elegantly appointed hall, which has a brass-plated chandelier hanging from the ceiling. Upholstered chairs line the walls, and stained-glass wall hangings depict beautiful men, women, and children singing and playing instruments.</p>
+					<p>A harpsichord with a bench rests in the northwest corner. Near the fireplace is a large standing harp. Alabaster figurines of well-dressed dancers adorn the mantelpiece. Close inspection of them reveals that several are carvings of well-dressed skeletons.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_10_conservatory>
+			<enc_18_03_11_balcony>
+				<locked type="number">0</locked>
+				<text type="formattedtext">
+					<h>11. Balcony</h>
+					<p>Characters who climb the red marble staircase to its full height come to a dusty balcony with a suit of black plate armor standing against one wall, draped in cobwebs. This suit of <b>animated armor </b>attacks as soon as it takes damage or a character approaches within 5 feet of it. It fights until destroyed.</p>
+					<linklist>
+						<link class="battle" recordname="battle.id-00157@DD Curse of Strahd">Encounter: 1 Animated Armor</link>
+					</linklist>
+					<p>Oil lamps are mounted on the oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny critters. Characters who search the walls for secret doors or otherwise inspect the paneling can, with a successful DC 12 Wisdom (Perception) check, notice tiny corpses hanging from the trees and worms bursting up from the ground.</p>
+					<h>Secret Door</h>
+					<p>A secret door in the west wall can be found with a successful DC 15 Wisdom (Perception) check. It pushes open easily to reveal a cobweb-filled wooden staircase leading up to the attic.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_11_balcony>
+			<enc_18_03_12_mastersuite>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>12. Master Suite</h>
+					<p>The double doors to this room have dusty panes of stained glass set into them. Designs in the glass resemble windmills.</p>
+					<p>The dusty, cobweb-filled master bedroom (area 12A) has burgundy drapes covering the windows. Furnishings include a four-poster bed with embroidered curtains and tattered gossamer veils, a matching pair of empty wardrobes, a vanity with a wood-framed mirror and jewelry box (see &#34;Treasure&#34;), and a padded chair. A rotting tiger-skin rug lies on the floor in front of the fireplace, which has a dust-covered portrait of Gustav and Elisabeth Durst hanging above it. A web-filled parlor in the southwest corner contains a table and two chairs. Resting on the dusty tablecloth is an empty porcelain bowl and a matching jug.</p>
+					<p>A door facing the foot of the bed has a full-length mirror mounted on it. The door opens to reveal an empty, dust-choked closet (area 12B). A door in the parlor leads to an outside balcony (area 12C).</p>
+					<h>Dumbwaiter</h>
+					<p>A dumbwaiter in the corner of the west wall has a button on the wall next to it. Pressing the button rings the tiny bell in area 4A.</p>
+					<h>Treasure</h>
+					<p>The jewelry box on the vanity is made of silver with gold filigree (worth 75 gp). It contains three gold rings (worth 25 gp each) and a thin platinum necklace with a topaz pendant (worth 750 gp).</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.id-00080@DD Curse of Strahd">Parcel: Treasure</link>
+					</linklist>
+					<h>Sublocations</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00012@DD Curse of Strahd">12A. Master Suite</link>
+						<link class="encounter" recordname="encounter.id-00013@DD Curse of Strahd">12B. Master Suite Closet</link>
+						<link class="encounter" recordname="encounter.id-00014@DD Curse of Strahd">12C. Master Suite Balcony</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_12_mastersuite>
+			<enc_18_03_13_bathroom>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>13. Bathroom</h>
+					<p>This dark room contains a wooden tub with clawed feet, a small iron stove with a kettle resting atop it, and a barrel under a spigot in the east wall. A cistern on the roof used to collect rainwater, which was borne down a pipe to the spigot; however, the plumbing no longer works.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_13_bathroom>
+			<enc_18_03_14_storageroom>
+				<locked type="number">0</locked>
+				<text type="formattedtext">
+					<h>14. Storage Room</h>
+					<p>Dusty shelves line the walls of this room. A few of the shelves have folded sheets, blankets, and old bars of soap on them. A cobweb-covered <b>broom of animated attack </b>(see appendix D) leans against the far wall; it attacks any creature approaching within 5 feet of it.</p>
+					<linklist>
+						<link class="battle" recordname="battle.id-00163@DD Curse of Strahd">Encounter: 1 Broom of Animated Attack</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_14_storageroom>
+			<enc_18_03_15_nursemaid_ssuite>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>15. Nursemaid's Suite</h>
+					<p>Dust and cobwebs shroud an elegantly appointed bedroom (area 15A) and an adjoining nursery (area 15B). Double doors set with panes of stained glass pull open to reveal a balcony (area 15C) overlooking the front of the house.</p>
+					<p>The bedroom once belonged to the family's nursemaid. The master of the house and the nursemaid had an affair, which led to the birth of a stillborn baby named Walter. The cult slew the nursemaid shortly thereafter. Unless the characters already defeated it in area 18, the nursemaid's spirit haunts the bedroom as a <b>specter. </b>The specter manifests and attacks when a character opens the door to the nursery. The specter resembles a terrified, skeletally thin young woman; it can't speak or be reasoned with.</p>
+					<linklist>
+						<link class="battle" recordname="battle.id-00164@DD Curse of Strahd">Encounter: Nursemaid</link>
+					</linklist>
+					<p>The bedroom contains a large bed, two end tables, and an empty wardrobe. Mounted on the wall next to the wardrobe is a full-length mirror with an ornate wooden frame carved to look like ivy and berries. Characters who search the wall for secret doors or otherwise inspect the mirror can, with a successful DC 12 Wisdom (Perception) check, notice eyeballs among the berries. The wall behind the mirror has a secret door in it (see &#34;Secret Door&#34; below).</p>
+					<p>The nursery contains a crib covered with a hanging black shroud. When characters part the shroud, they see a tightly wrapped, baby-sized bundle lying in the crib. Characters who unwrap the blanket find nothing inside it.</p>
+					<h>Secret Door</h>
+					<p>A secret door behind the mirror can be found with a successful DC 15 Wisdom (Perception) check. It pushes open easily to reveal a cobweb-filled wooden staircase leading up to the attic.</p>
+					<h>Sublocations</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00015@DD Curse of Strahd">15A. Nursemaid's Suite</link>
+						<link class="encounter" recordname="encounter.id-00016@DD Curse of Strahd">15B. Nursery</link>
+						<link class="encounter" recordname="encounter.id-00017@DD Curse of Strahd">15C. Nursemaid's Suite Balcony</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_15_nursemaid_ssuite>
+			<enc_18_03_16_attichall>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>16. Attic Hall</h>
+					<p>This bare hall is choked with dust and cobwebs.</p>
+					<h>Locked Door</h>
+					<p>The door to area 20 is held shut with a padlock. Its key is kept in the library (area 8), but the lock can also be picked with thieves' tools and a successful DC 15 Dexterity check.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_16_attichall>
+			<enc_18_03_17_sparebedroom>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>17. Spare Bedroom</h>
+					<p>This dust-choked room contains a slender bed, a nightstand, a small iron stove, a writing desk with a stool, an empty wardrobe, and a rocking chair. A smiling doll in a lacy yellow dress sits in the northern window box, cobwebs draping it like a wedding veil.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_17_sparebedroom>
+			<enc_18_03_18_storageroom>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>18. Storage Room</h>
+					<p>This dusty chamber is packed with old furniture (chairs, coat racks, standing mirrors, dress mannequins, and the like), all draped in dusty white sheets. Near an iron stove, underneath one of the sheets, is an unlocked wooden trunk containing the skeletal remains of the family's nursemaid, wrapped in a tattered bedsheet stained with dry blood. A character inspecting the remains and succeeding on a DC 14 Wisdom (Medicine) check can verify that the woman was stabbed to death by multiple knife wounds.</p>
+					<p>If the characters disturb the remains, the nursemaid's <b>specter </b>appears and attacks unless it was previously defeated in area 15.</p>
+					<linklist>
+						<link class="battle" recordname="battle.id-00164@DD Curse of Strahd">Encounter: Nursemaid</link>
+					</linklist>
+					<h>Secret Door</h>
+					<p>A secret door in the east wall appears only when certain conditions are met; see area 21 for more information.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_18_storageroom>
+			<enc_18_03_19_sparebedroom>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>19. Spare Bedroom</h>
+					<p>This web-filled room contains a slender bed, a nightstand, a rocking chair, an empty wardrobe, and a small iron stove.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_19_sparebedroom>
+			<enc_18_03_20_children_sroom>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>20. Children's Room</h>
+					<p>The door to this room is locked from the outside (see area 16 for details).</p>
+					<frame>This room contains a bricked-up window flanked by two dusty, wood-framed beds sized for children. Closer to the door is a toy chest with windmills painted on its sides and a dollhouse that's a perfect replica of the dreary edifice in which you stand. These furnishings are draped in cobwebs. Lying in the middle of the floor are two small skeletons wearing tattered but familiar clothing. The smaller of the two cradles a stuffed doll that you also recognize.</frame>
+					<p>The Durst children, Rose and Thorn, were neglected by their parents and locked in this room until they starved to death. Their small skeletons lie in the middle of the floor, plain as day, wearing tattered clothing that the characters recognize as belonging to the children. Thorn's skeleton cradles the boy's stuffed doll.</p>
+					<p>The toy chest contains an assortment of stuffed animals and toys. Characters who search the dollhouse and succeed on a DC 15 Wisdom (Perception) check find all of the house's secret doors, including one in the attic that leads to a spiral staircase (a miniature replica of area 21).</p>
+					<h>Rose and Thorn</h>
+					<p>If either the dollhouse or the chest is disturbed, the ghosts of Rose and Thorn appear in the middle of the room. Use the <b>ghost </b>statistics in the <i>Monster Manual, </i>with the following modifications:</p>
+					<list>
+						<li>The ghosts are Small and lawful good.</li>
+						<li>They have 35 (10d6) hit points each.</li>
+						<li>They lack the Horrifying Visage action.</li>
+						<li>They speak Common and have a challenge rating of 3 (700 XP).</li>
+					</list>
+					<linklist>
+						<link class="imagewindow" recordname="image.id-00126@DD Curse of Strahd">Portrait: Thorn and Rose</link>
+						<link class="npc" recordname="npc.id-00164@DD Curse of Strahd">NPC: Thorn</link>
+						<link class="npc" recordname="npc.id-00163@DD Curse of Strahd">NPC: Rose</link>
+					</linklist>
+					<p>The children don't like it when the characters disturb their toys, but they fight only in self-defense. Unlike the illusions outside the house, these children know that they're dead. If asked how they died, Rose and Thorn explain that their parents locked them in the attic to protect them from &#34;the monster in the basement,&#34; and that they died from hunger. If asked how one gets to the basement, Rose points to the dollhouse and says, &#34;There's a secret door in the attic.&#34; Characters who then search the dollhouse for secret doors gain advantage on their Wisdom (Perception) checks to find them.</p>
+					<p>The children fear abandonment. If one or more characters try to leave, the ghost-children attempt to possess them. If one of the ghosts possesses a character, allow the player to retain control of the character, but assign the character one of the following flaws:</p>
+					<list>
+						<li>A character possessed by Rose gains the following flaw: &#34;I like being in charge and get angry when other people tell me what to do.&#34;</li>
+						<li>A character possessed by Thorn gains the following flaw: &#34;I'm scared of everything, including my own shadow, and weep with despair when things don't go my way.&#34;</li>
+					</list>
+					<p>A character possessed by the ghost of Rose or Thorn won't willingly leave Death House or the dungeon below it. Both ghosts can be intimidated into leaving their hosts with a successful DC 11 Charisma (Intimidation) check made as an action.</p>
+					<p>A ghost reduced to 0 hit points can reform at dawn the next day. The only way to put the children's spirits to rest is to put their skeletal remains in their tombs (areas 23E and 23F). The children don't know this, however.</p>
+					<h>Development</h>
+					<p>If the party lays the children's spirits to rest, each character gains inspiration (see &#34;Inspiration&#34; in chapter 4, &#34;Personality and Background,&#34; of the <i>Player's Handbook </i>).</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_20_children_sroom>
+			<enc_18_03_21_secretstairs>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>21. Secret Stairs</h>
+					<p>A narrow spiral staircase made of creaky wood is contained within a 5-foot-wide shaft of mortared stone that starts in the attic and descends 50 feet to the dungeon level, passing through the lower levels of the house as it makes its descent. Thick cobwebs fill the shaft and reduce visibility in the staircase to 5 feet.</p>
+					<p>The secret door and shaft don't exist until the house reveals them, which can happen in one of two ways:</p>
+					<list>
+						<li>The characters find Strahd's letter in the secret room behind the library (area 9).</li>
+						<li>The characters find the replica secret door in the attic of the dollhouse (area 20).</li>
+					</list>
+					<p>Once the house wills the secret door into existence, characters find it automatically if they search the wall (no ability check required). Characters who descend the spiral staircase end up in area 22.</p>
+					<h>Dungeon Features</h>
+					<p>The dungeon level underneath Death House is carved out of earth, clay, and rock. The tunnels are 4 feet wide by 7 feet high with timber braces at 5-foot intervals. Rooms are 8 feet tall and supported by thick wooden posts with crossbeams. The only exception is area 38, which has a 16-foot-high ceiling supported by stone pillars. Characters without darkvision must provide their own light sources, as the dungeon is unlit.</p>
+					<p>As the characters explore the dungeon, they see centuries-old human footprints in the earthen floor leading every which way.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_21_secretstairs>
+			<enc_18_03_22_dungeonlevelaccess>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>22. Dungeon Level Access</h>
+					<p>The wooden spiral staircase from the attic ends here. A narrow tunnel stretches southward before branching east and west.</p>
+					<h>Ghostly Chanting</h>
+					<p>From the moment they arrive in the dungeon, the characters can hear an eerie, incessant chant echoing throughout. It's impossible to gauge where the sound is coming from until the characters reach area 26 or 29. They can't discern its words until they reach area 35.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_22_dungeonlevelaccess>
+			<enc_18_03_23_familycrypts>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>23. Family Crypts</h>
+					<p>Several crypts have been hewn from the earth. Each crypt is sealed with a stone slab unless noted otherwise. Removing a slab from its fitting requires a successful DC 15 Strength (Athletics) check; using a crowbar or the like grants advantage on the check.</p>
+					<h>Sublocations</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc_18_03_23a_emptycrypt@DD Curse of Strahd">23A. Empty Crypt</link>
+						<link class="encounter" recordname="encounter.enc_18_03_23b_walter_scrypt@DD Curse of Strahd">23B. Walter's Crypt</link>
+						<link class="encounter" recordname="encounter.enc_18_03_23c_gustav_scrypt@DD Curse of Strahd">23C. Gustav's Crypt</link>
+						<link class="encounter" recordname="encounter.enc_18_03_23d_elisabeth_scrypt@DD Curse of Strahd">23D. Elisabeth's Crypt</link>
+						<link class="encounter" recordname="encounter.enc_18_03_23e_rose_scrypt@DD Curse of Strahd">23E. Rose's Crypt</link>
+						<link class="encounter" recordname="encounter.enc_18_03_23f_thorn_scrypt@DD Curse of Strahd">23F. Thorn's Crypt</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_23_familycrypts>
+			<enc_18_03_24_cultinitiates_quarters>
+				<locked type="number">0</locked>
+				<text type="formattedtext">
+					<h>24. Cult Initiates' Quarters</h>
+					<p>A wooden table and four chairs stand at the east end of this room. To the west are four alcoves containing moldy straw pallets.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_24_cultinitiates_quarters>
+			<enc_18_03_25_wellandcultistquarters>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>25. Well and Cultist Quarters</h>
+					<p>A 4-foot-diameter well shaft with a 3-foot-high stone lip descends 30 feet to a water-filled cistern. A wooden bucket hangs from a rope-and-pulley mechanism bolted to the crossbeams above the well.</p>
+					<p>Five side rooms once served as quarters for senior cultists. Each contains a wood-framed bed with a moldy straw mattress and a wooden chest to hold personal belongings. Each chest is secured with a rusty iron padlock that can be picked with thieves' tools and a successful DC 15 Dexterity check.</p>
+					<h>Treasure</h>
+					<p>In addition to some worthless personal effects, each chest contains one or more valuable items.</p>
+					<p><b>25A. </b>This room's chest contains 11 gp and 60 sp in a pouch made of human skin.</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.id-00081@DD Curse of Strahd">Parcel: 25A Coinage</link>
+					</linklist>
+					<p><b>25B. </b>This room's chest contains three moss agates (worth 10 gp each) in a folded piece of black cloth.</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.id-00082@DD Curse of Strahd">Parcel: 25B Gems</link>
+					</linklist>
+					<p><b>25C. </b>This room's chest contains a black leather eye-patch with a carnelian (worth 50 gp) sewn into it.</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.id-00083@DD Curse of Strahd">Parcel: 25C Treasure</link>
+					</linklist>
+					<p><b>25D. </b>This room's chest contains an ivory hairbrush with silver bristles (worth 25 gp).</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.id-00084@DD Curse of Strahd">Parcel: 25D Treasure</link>
+					</linklist>
+					<p><b>25E. </b>This room's chest contains a silvered shortsword (worth 110 gp).</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.id-00085@DD Curse of Strahd">Parcel: 25E Treasure</link>
+					</linklist>
+					<h>Sublocations</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.id-00018@DD Curse of Strahd">25A. Cultist Quarters</link>
+						<link class="encounter" recordname="encounter.id-00019@DD Curse of Strahd">25B. Cultist Quarters</link>
+						<link class="encounter" recordname="encounter.id-00020@DD Curse of Strahd">25C. Cultist Quarters</link>
+						<link class="encounter" recordname="encounter.id-00021@DD Curse of Strahd">25D. Cultist Quarters</link>
+						<link class="encounter" recordname="encounter.id-00022@DD Curse of Strahd">25E. Cultist Quarters</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_25_wellandcultistquarters>
+			<enc_18_03_26_hiddenspikedpit>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>26. Hidden Spiked Pit</h>
+					<p>The ghostly chanting heard throughout the dungeon gets discernibly louder as one heads west along this tunnel. A successful DC 15 Wisdom (Perception) check reveals an absence of footprints. Characters searching the floor for traps find a 5-foot-long, 10-foot-deep pit hidden under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom. The first character to step on the cover falls through, landing prone and taking 3 (1d6) bludgeoning damage from the fall plus 11 (2d10) piercing damage from the spikes.</p>
+					<linklist>
+						<link class="battle" recordname="battle.id-00203@DD Curse of Strahd">Encounter: Hidden Spiked Pit Trap</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_26_hiddenspikedpit>
+			<enc_18_03_27_dininghall>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>27. Dining Hall</h>
+					<p>This room contains a plain wooden table flanked by long benches. Moldy humanoid bones lie strewn on the dirt floor - the remains of the cult's vile banquets.</p>
+					<p>In the middle of the south wall is a darkened alcove (area 28). Characters who approach within 5 feet of the alcove provoke the creature that lurks there.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_27_dininghall>
+			<enc_18_03_28_larder>
+				<locked type="number">1</locked>
+			</enc_18_03_28_larder>
+			<enc_18_03_29_ghoulishencounter>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>29. Ghoulish Encounter</h>
+					<p>The ghostly chanting heard throughout the dungeon is noticeably louder to the north. When one or more characters reach the midpoint of the four-way tunnel intersection, four <b>ghouls </b>(former cultists) rise up out of the ground in the spaces marked X on the map and attack. The ghouls fight until destroyed.</p>
+					<linklist>
+						<link class="battle" recordname="battle.id-00204@DD Curse of Strahd">Encounter: 4 Ghouls</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_29_ghoulishencounter>
+			<enc_18_03_30_stairsdown>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>30. Stairs Down</h>
+					<p>It's obvious to any character standing at the top of this 20-foot-long staircase that the ghostly chants originate from somewhere below. Characters who descend the stairs and follow the hall beyond arrive in area 35.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_30_stairsdown>
+			<enc_18_03_31_darklord_sshrine>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>31. Darklord's Shrine</h>
+					<frame>This room is festooned with moldy skeletons that hang from rusty shackles against the walls. A wide alcove in the south wall contains a painted wooden statue carved in the likeness of a gaunt, pale-faced man wearing a voluminous black cloak, his pale left hand resting on the head of a wolf that stands next to him. In his right hand, he holds a smoky-gray crystal orb.&#13;&#13;The room has exits in the west and north walls. Chanting can be heard coming from the west.</frame>
+					<p>The statue depicts Strahd, to whom the cultists made sacrifices in the vain hope that he might reveal his darkest secrets to them. If the characters touch the statue or take the crystal orb from Strahd's hand, five <b>shadows </b>form around the statue and attack them. The shadows (the spirits of former cultists) pursue those who flee beyond the room's confines.</p>
+					<linklist>
+						<link class="battle" recordname="battle.id-00167@DD Curse of Strahd">Encounter: 5 Shadows</link>
+					</linklist>
+					<p>The skeletons on the wall are harmless decor.</p>
+					<h>Concealed Door</h>
+					<p>Characters searching the room for secret doors find a concealed door in the middle of the east wall with a successful DC 10 Wisdom (Perception) check. It's basically an ordinary (albeit rotted) wooden door hidden under a layer of clay. The door pulls open to reveal a stone staircase that climbs 10 feet to a landing (area 32).</p>
+					<h>Treasure</h>
+					<p>The crystal orb is worth 25 gp. It can be used as an arcane focus but is not magical.</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.id-00093@DD Curse of Strahd">Parcel: Crystal Orb</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_31_darklord_sshrine>
+			<enc_18_03_32_hiddentrapdoor>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>32. Hidden Trapdoor</h>
+					<p>The staircase ends at a landing with a 6-foot-high ceiling of close-fitting planks with a wooden trapdoor set into it. The trapdoor is bolted shut from this side and can be pushed open to reveal the den (area 3) above.</p>
+					<h>Development</h>
+					<p>Once the trapdoor has been found and opened, it remains available to characters as a way into and out of the dungeon level.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_32_hiddentrapdoor>
+			<enc_18_03_33_cultleaders_den>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>33. Cult Leaders' Den</h>
+					<p>The door in the southwest corner is a <b>mimic </b>in disguise. Any creature that touches the door becomes adhered to the creature, whereupon the mimic attacks. The mimic also attacks if its takes any damage.</p>
+					<linklist>
+						<link class="battle" recordname="battle.id-00168@DD Curse of Strahd">Encounter: 1 Mimic</link>
+					</linklist>
+					<p>A chandelier is suspended above a table in the middle of the room. Two high-backed chairs flank the table, which has an empty clay jug and two clay flagons atop it. Iron candlesticks stand in two corners, their candles long since melted away.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_33_cultleaders_den>
+			<enc_18_03_34_cultleaders_quarters>
+				<locked type="number">0</locked>
+				<text type="formattedtext">
+					<h>34. Cult Leaders' Quarters</h>
+					<p>This room contains a large wood-framed bed with a rotted feather mattress, a wardrobe containing several old robes, a pair of iron candlesticks, and an open crate containing thirty torches and a leather sack with fifteen candles inside it. At the foot of the bed is an unlocked wooden footlocker containing some gear and magic items (see &#34;Treasure&#34; below).</p>
+					<p>Two <b>ghasts </b>(Gustav and Elisabeth Durst) are hidden in cavities behind the earthen walls, marked X on the map; they burst forth and attack if someone removes one or more items from the footlocker. The ghasts wear tattered black robes.</p>
+					<linklist>
+						<link class="battle" recordname="battle.id-00169@DD Curse of Strahd">Encounter: 2 Ghasts</link>
+					</linklist>
+					<h>Treasure</h>
+					<p>Characters searching the footlocker find a folded <i>cloak of protection, </i>a small wooden coffer (unlocked) containing four <i>potions of healing, </i>a chain shirt, a mess kit, a flask of alchemist's fire, a bullseye lantern, a set of thieves' tools, and a spellbook with a yellow leather cover containing the following wizard spells:</p>
+					<p>1st level: <i>disguise self, identify, mage armor, magic missile, protection from evil and good</i></p>
+					<p>2nd level: <i>darkvision, hold person, invisibility, magic weapon</i></p>
+					<p>These items were taken from adventurers who were drawn into Barovia, captured, and killed by the cult.</p>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.id-00086@DD Curse of Strahd">Parcel: Cult Leader's Treasure</link>
+					</linklist>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_34_cultleaders_quarters>
+			<enc_18_03_35_reliquary>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>35. Reliquary</h>
+					<p>The ghostly chant emanating from area 38 fills this room. Characters can discern a dozen or so voices saying, over and over, &#34;He is the Ancient. He is the Land.&#34;</p>
+					<p>The cult amassed several &#34;relics&#34; that it used in its rituals. These worthless items are stored in thirteen niches along the walls:</p>
+					<list>
+						<li>A small, mummified, yellow hand with sharp claws (a goblin's hand) on a loop of rope</li>
+						<li>A knife carved from a human bone</li>
+						<li>A dagger with a rat's skull set into the pommel</li>
+						<li>An 8-inch-diameter varnished orb made from a nothic's eye</li>
+						<li>An aspergillum carved from bone</li>
+						<li>A folded cloak made from stitched ghoul skin</li>
+						<li>A desiccated frog lashed to a stick (could be mistaken for a <i>wand of polymorph </i>)</li>
+						<li>A bag full of bat guano</li>
+						<li>A hag's severed finger</li>
+						<li>A 6-inch-tall wooden figurine of a mummy, its arms crossed over its chest</li>
+						<li>An iron pendant adorned with a devil's face</li>
+						<li>The shrunken, shriveled head of a halfling</li>
+						<li>A small wooden coffer containing a dire wolf's withered tongue</li>
+					</list>
+					<linklist>
+						<link class="treasureparcel" recordname="treasureparcels.id-00087@DD Curse of Strahd">Parcel: Cult &#34;Treasures&#34;</link>
+					</linklist>
+					<p>The southernmost tunnel slopes down at a 20-degree angle into murky water and ends at a rusty portcullis (area 37).</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_35_reliquary>
+			<enc_18_03_36_prison>
+				<locked type="number">1</locked>
+			</enc_18_03_36_prison>
+			<enc_18_03_37_portcullis>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>37. Portcullis</h>
+					<p>This tunnel is blocked by a rusty iron portcullis that can be forcibly lifted with a successful DC 20 Strength (Athletics) check. Otherwise, the portcullis can be raised or lowered by turning a wooden wheel half-embedded in the east wall of area 38. (The wheel is beyond the reach of someone east of the portcullis.) The floor around the portcullis is submerged under 2 feet of murky water.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_37_portcullis>
+			<enc_18_03_38_ritualchamber>
+				<locked type="number">1</locked>
+				<text type="formattedtext">
+					<h>38. Ritual Chamber</h>
+					<p>The cult used to perform rituals in this sunken room. The chanting heard throughout the dungeon originates here, yet when the characters arrive, the dungeon falls silent as the chanting mysteriously stops.</p>
+					<frame>The chanting stops as you peer into this forty-foot-square room. The smooth masonry walls provide excellent acoustics. Featureless stone pillars support the ceiling, and a breach in the west wall leads to a dark cave heaped with refuse. Murky water covers most of the floor. Stairs lead up to dry stone ledges that hug the walls. In the middle of the room, more stairs rise to form an octagonal dais that also rises above the water. Rusty chains with shackles dangle from the ceiling directly above a stone altar mounted on the dais. The altar is carved with hideous depictions of grasping ghouls and is stained with dry blood.</frame>
+					<p>The water is 2 feet deep. The ledges and central dais are 5 feet high (3 feet higher than the water's surface), and the chamber's ceiling is 16 feet high (11 feet above the dais and ledges). The chains dangling from the ceiling are 8 feet long; the cultists would shackle prisoners to the chains, dangle them above the altar, cut them open with knives, and allow the altar to be bathed in blood.</p>
+					<p>Half embedded in the east wall is a wooden wheel connected to hidden chains and mechanisms. A character can use an action to turn the wheel, raising or lowering the nearby portcullis (see area 37).</p>
+					<p>The hole in the west wall leads to a naturally formed alcove. The half-submerged pile of refuse that fills it is a <b>shambling mound, </b>which the cultists dubbed Lorghoth the Decayer. It is asleep but awakens if attacked or if the characters summon the cultists but refuse to complete their ritual (see &#34;One Must Die!&#34; below). A character standing next to the mound can discern its true nature with a successful DC 15 Intelligence (Nature) check.</p>
+					<linklist>
+						<link class="battle" recordname="battle.id-00170@DD Curse of Strahd">Encounter: 1 Shambling Mound</link>
+					</linklist>
+					<h>&#34;One Must Die!&#34;</h>
+					<p>If any character climbs to the top of the dais, read:</p>
+					<frame>The chanting rises once more as thirteen dark apparitions appear on the ledges overlooking the room. Each one resembles a black-robed figure holding a torch, but the torch's fire is black and seems to draw light into it. Where you'd expect to see faces are voids.&#13;&#13;&#34;One must die!&#34; they chant, over and over. &#34;One must die! One must die!&#34;</frame>
+					<p>The apparitions are harmless figments that can't be damaged, turned, or dispelled.</p>
+					<p>Characters on the dais when the cultists appear must sacrifice a creature on the altar or face the cult's wrath; characters can ascertain what must be done with a successful DC 11 Intelligence (Religion) or Wisdom (Insight) check. To count as a sacrifice, a creature must die on the altar. The apparitions don't care what kind of creature is sacrificed, and they aren't fooled by illusions.</p>
+					<p>If the characters make the sacrifice, the cultists fade away, but their tireless chant of &#34;He is the Ancient. He is the Land,&#34; echoes again in the dungeon. Strahd is aware of the sacrifice, and Death House now does nothing to hinder the characters (see &#34;Endings&#34; below).</p>
+					<p>If the characters leave the dais without making the sacrifice, the cultists' chant changes: &#34;Lorghoth the Decayer, we awaken thee!&#34; This chant rouses the shambling mound and prompts it to attack. It pursues prey beyond the room but won't leave the dungeon. It can move through tunnels without squeezing and completely fills its space. At the start of the shambling mound's first turn, the chant changes again: &#34;The end comes! Death, be praised!&#34; If the shambling mound dies, the chanting stops and the apparitions vanish forever.</p>
+					<h>Navigation Shortcuts</h>
+					<linklist>
+						<link class="encounter" recordname="encounter.enc__curseofstrahd_@DD Curse of Strahd">Root - Curse of Strahd Contents</link>
+						<link class="encounter" recordname="encounter.enc_18_00appendixbintroduction@DD Curse of Strahd">Up - Appendix B</link>
+						<link class="encounter" recordname="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd">Up - Areas of the House</link>
+					</linklist>
+				</text>
+			</enc_18_03_38_ritualchamber>
+		</category>
+		<category name="CoS 19. Appendix C: Treasures" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 20. Appendix D: Monsters and NPCs" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 21. Appendix E: The Tarokka Deck" baseicon="0" decalicon="0">
+		</category>
+		<category name="CoS 22. Appendix F: Handouts" baseicon="0" decalicon="0">
+		</category>
+	</encounter>
 	<image>
 		<category name="Curse of Strahd - DM Maps" baseicon="8" decalicon="1">
 			<id-00038>
@@ -181,7 +970,401 @@
 				<isidentified type="deleted" />
 			</id-00014>
 			<id-00015>
+				<public />
 				<isidentified type="deleted" />
+				<image type="image">
+					<bitmap>Map - Death House.jpg</bitmap>
+					<gridsize>32</gridsize>
+					<gridoffset>15,11</gridoffset>
+					<gridsnap>on</gridsnap>
+					<shortcuts>
+						<shortcut>
+							<x>665</x>
+							<y>85</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>207</x>
+							<y>1289</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_03_denofwolves@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>129</x>
+							<y>1081</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_05_diningroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>405</x>
+							<y>1178</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_06_upperhall@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>399</x>
+							<y>1071</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_08_library@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>495</x>
+							<y>1019</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_09_secretroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>437</x>
+							<y>1301</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_10_conservatory@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>188</x>
+							<y>767</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_11_balcony@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>114</x>
+							<y>745</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_13_bathroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>111</x>
+							<y>796</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_14_storageroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>107</x>
+							<y>1346</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00004@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>109</x>
+							<y>1282</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00005@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>158</x>
+							<y>1187</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00006@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>162</x>
+							<y>1117</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00007@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>235</x>
+							<y>1085</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00008@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>238</x>
+							<y>1021</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00009@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>495</x>
+							<y>1096</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00010@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>440</x>
+							<y>1114</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00011@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>152</x>
+							<y>649</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00012@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>191</x>
+							<y>699</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00013@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>257</x>
+							<y>626</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00014@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>209</x>
+							<y>882</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00015@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>116</x>
+							<y>848</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00016@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>109</x>
+							<y>909</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00017@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>456</x>
+							<y>726</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_16_attichall@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>453</x>
+							<y>888</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_17_sparebedroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>377</x>
+							<y>796</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_18_storageroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>369</x>
+							<y>655</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_19_sparebedroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>450</x>
+							<y>641</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_20_children_sroom@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>351</x>
+							<y>736</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_21_secretstairs@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>761</x>
+							<y>251</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_22_dungeonlevelaccess@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>766</x>
+							<y>347</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23_familycrypts@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>860</x>
+							<y>344</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23_familycrypts@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>925</x>
+							<y>188</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23a_emptycrypt@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>926</x>
+							<y>251</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23b_walter_scrypt@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>923</x>
+							<y>317</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23c_gustav_scrypt@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>925</x>
+							<y>382</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23d_elisabeth_scrypt@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>713</x>
+							<y>315</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23e_rose_scrypt@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>715</x>
+							<y>379</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23f_thorn_scrypt@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>862</x>
+							<y>218</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_23_familycrypts@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>657</x>
+							<y>222</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_24_cultinitiates_quarters@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>510</x>
+							<y>347</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_25_wellandcultistquarters@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>530</x>
+							<y>265</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00018@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>464</x>
+							<y>265</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00019@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>432</x>
+							<y>364</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00020@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>462</x>
+							<y>460</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00021@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>529</x>
+							<y>460</y>
+							<class>encounter</class>
+							<recordname>encounter.id-00022@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>674</x>
+							<y>478</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_26_hiddenspikedpit@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>767</x>
+							<y>443</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_27_dininghall@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>893</x>
+							<y>444</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_28_larder@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>766</x>
+							<y>536</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_29_ghoulishencounter@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>638</x>
+							<y>598</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_30_stairsdown@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>636</x>
+							<y>502</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_35_reliquary@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>917</x>
+							<y>636</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_31_darklord_sshrine@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>893</x>
+							<y>481</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_32_hiddentrapdoor@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>795</x>
+							<y>696</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_33_cultleaders_den@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>665</x>
+							<y>735</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_34_cultleaders_quarters@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>768</x>
+							<y>898</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_35_reliquary@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>638</x>
+							<y>988</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_30_stairsdown@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>671</x>
+							<y>1116</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_36_prison@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>799</x>
+							<y>997</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_37_portcullis@DD Curse of Strahd</recordname>
+						</shortcut>
+						<shortcut>
+							<x>848</x>
+							<y>1132</y>
+							<class>encounter</class>
+							<recordname>encounter.enc_18_03_38_ritualchamber@DD Curse of Strahd</recordname>
+						</shortcut>
+					</shortcuts>
+					<tokens>
+						<idcounter>6</idcounter>
+						<scalelock>3.90625</scalelock>
+						<token>
+							<prototype>portrait_id-00003_token</prototype>
+							<id>6</id>
+							<x>752</x>
+							<y>316</y>
+							<name>Chris</name>
+							<visibilitylocked>on</visibilitylocked>
+						</token>
+					</tokens>
+				</image>
+				<name type="string">Map - House</name>
 			</id-00015>
 			<id-00016>
 				<isidentified type="deleted" />
@@ -199,6 +1382,7 @@
 				<isidentified type="deleted" />
 			</id-00020>
 			<id-00021>
+				<public />
 				<isidentified type="deleted" />
 			</id-00021>
 			<id-00022>
@@ -327,18 +1511,21 @@
 				<isidentified type="deleted" />
 			</id-00234>
 			<id-00235>
+				<public />
 				<isidentified type="deleted" />
 			</id-00235>
 			<id-00236>
 				<isidentified type="deleted" />
 			</id-00236>
 			<id-00237>
+				<public />
 				<isidentified type="deleted" />
 			</id-00237>
 			<id-00238>
 				<isidentified type="deleted" />
 			</id-00238>
 			<id-00239>
+				<public />
 				<isidentified type="deleted" />
 			</id-00239>
 			<id-00240>
@@ -396,6 +1583,7 @@
 				<isidentified type="deleted" />
 			</id-00257>
 			<id-00258>
+				<public />
 				<isidentified type="deleted" />
 			</id-00258>
 			<id-00259>
@@ -447,6 +1635,7 @@
 				<isidentified type="deleted" />
 			</id-00274>
 			<id-00275>
+				<public />
 				<isidentified type="deleted" />
 			</id-00275>
 		</category>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<windowstate version="3.3">
+	<window data="" class="library" pos="668,188,1368,738" />
+	<window data="" class="lightingselection" pos="877,290,1042,750" />
+	<window data="" class="moduleselection" pos="610,255,1310,785" />
+	<window data="" class="pointerselection" pos="835,392,1085,647" />
+	<window data="" class="portraitselection" pos="730,370,1190,670" />
+	<window data="battle.id-00157@DD Curse of Strahd" class="battle" pos="1301,305,1651,705" />
+	<window data="battle.id-00166@DD Curse of Strahd" class="battle" pos="785,320,1135,720" />
+	<window data="battle.id-00168@DD Curse of Strahd" class="battle" pos="785,320,1135,720" />
+	<window data="battle.id-00169@DD Curse of Strahd" class="battle" pos="785,320,1135,720" />
+	<window data="battle.id-00170@DD Curse of Strahd" class="battle" pos="785,320,1135,720" />
+	<window data="battle.id-00204@DD Curse of Strahd" class="battle" pos="785,320,1135,720" />
+	<window data="calendar" class="calendar" pos="632,270,1287,770" />
+	<window data="charsheet.id-00001" class="charsheet" pos="697,220,1222,820" />
+	<window data="charsheet.id-00002" class="charsheet" pos="697,220,1222,820" />
+	<window data="charsheet.id-00003" class="charsheet" pos="697,220,1222,820" />
+	<window data="combattracker" class="combattracker_host" pos="1191,413,1841,913" />
+	<window data="combattracker.list.id-00001" class="npc" pos="947,132,1407,682" />
+	<window data="currencies" class="currencylist" pos="785,345,1135,695" />
+	<window data="effects" class="effectlist" pos="785,345,1325,745" />
+	<window data="encounter" class="masterindex" pos="735,295,1185,745" />
+	<window data="encounter.enc_02_00chapter2introduction@DD Curse of Strahd" class="encounter" pos="760,195,1160,845" />
+	<window data="encounter.enc_02_06_00areasofbarovia@DD Curse of Strahd" class="encounter" pos="760,195,1160,845" />
+	<window data="encounter.enc_03_02_e7_hauntedhouse@DD Curse of Strahd" class="encounter" pos="760,195,1160,845" />
+	<window data="encounter.enc_18_01history@DD Curse of Strahd" class="encounter" pos="312,117,712,767" />
+	<window data="encounter.enc_18_02roseandthorn@DD Curse of Strahd" class="encounter" pos="17,35,417,685" />
+	<window data="encounter.enc_18_03_00areasofthehouse@DD Curse of Strahd" class="encounter" pos="-13,177,387,827" />
+	<window data="encounter.enc_18_03_01_entrance@DD Curse of Strahd" class="encounter" pos="96,199,496,849" />
+	<window data="encounter.enc_18_03_02_mainhall@DD Curse of Strahd" class="encounter" pos="803,191,1203,841" />
+	<window data="encounter.enc_18_03_03_denofwolves@DD Curse of Strahd" class="encounter" pos="1362,203,1762,853" />
+	<window data="encounter.enc_18_03_04_kitchenandpantry@DD Curse of Strahd" class="encounter" pos="63,289,463,939" />
+	<window data="encounter.enc_18_03_05_diningroom@DD Curse of Strahd" class="encounter" pos="37,258,437,908" />
+	<window data="encounter.enc_18_03_06_upperhall@DD Curse of Strahd" class="encounter" pos="25,290,425,940" />
+	<window data="encounter.enc_18_03_07_servants_room@DD Curse of Strahd" class="encounter" pos="300,277,700,927" />
+	<window data="encounter.enc_18_03_08_library@DD Curse of Strahd" class="encounter" pos="34,176,434,826" />
+	<window data="encounter.enc_18_03_09_secretroom@DD Curse of Strahd" class="encounter" pos="760,195,1160,845" />
+	<window data="encounter.enc_18_03_10_conservatory@DD Curse of Strahd" class="encounter" pos="71,224,471,874" />
+	<window data="encounter.enc_18_03_11_balcony@DD Curse of Strahd" class="encounter" pos="55,251,455,901" />
+	<window data="encounter.enc_18_03_12_mastersuite@DD Curse of Strahd" class="encounter" pos="1331,311,1731,961" />
+	<window data="encounter.enc_18_03_13_bathroom@DD Curse of Strahd" class="encounter" pos="414,184,814,834" />
+	<window data="encounter.enc_18_03_14_storageroom@DD Curse of Strahd" class="encounter" pos="63,265,463,915" />
+	<window data="encounter.enc_18_03_15_nursemaid_ssuite@DD Curse of Strahd" class="encounter" pos="79,388,479,1038" />
+	<window data="encounter.enc_18_03_16_attichall@DD Curse of Strahd" class="encounter" pos="510,210,910,860" />
+	<window data="encounter.enc_18_03_17_sparebedroom@DD Curse of Strahd" class="encounter" pos="772,204,1172,854" />
+	<window data="encounter.enc_18_03_18_storageroom@DD Curse of Strahd" class="encounter" pos="1343,232,1743,882" />
+	<window data="encounter.enc_18_03_19_sparebedroom@DD Curse of Strahd" class="encounter" pos="760,195,1160,845" />
+	<window data="encounter.enc_18_03_20_children_sroom@DD Curse of Strahd" class="encounter" pos="760,195,1160,845" />
+	<window data="encounter.enc_18_03_21_secretstairs@DD Curse of Strahd" class="encounter" pos="56,283,456,933" />
+	<window data="encounter.enc_18_03_22_dungeonlevelaccess@DD Curse of Strahd" class="encounter" pos="6,249,406,899" />
+	<window data="encounter.enc_18_03_23_familycrypts@DD Curse of Strahd" class="encounter" pos="760,195,1160,845" />
+	<window data="encounter.enc_18_03_24_cultinitiates_quarters@DD Curse of Strahd" class="encounter" pos="1193,226,1593,876" />
+	<window data="encounter.enc_18_03_25_wellandcultistquarters@DD Curse of Strahd" class="encounter" pos="1068,180,1468,830" />
+	<window data="encounter.enc_18_03_26_hiddenspikedpit@DD Curse of Strahd" class="encounter" pos="524,167,924,817" />
+	<window data="encounter.enc_18_03_27_dininghall@DD Curse of Strahd" class="encounter" pos="738,198,1138,848" />
+	<window data="encounter.enc_18_03_28_larder@DD Curse of Strahd" class="encounter" pos="760,195,1160,845" />
+	<window data="encounter.enc_18_03_29_ghoulishencounter@DD Curse of Strahd" class="encounter" pos="75,307,475,957" />
+	<window data="encounter.enc_18_03_30_stairsdown@DD Curse of Strahd" class="encounter" pos="442,342,842,992" />
+	<window data="encounter.enc_18_03_31_darklord_sshrine@DD Curse of Strahd" class="encounter" pos="273,218,673,868" />
+	<window data="encounter.enc_18_03_32_hiddentrapdoor@DD Curse of Strahd" class="encounter" pos="760,195,1160,845" />
+	<window data="encounter.enc_18_03_33_cultleaders_den@DD Curse of Strahd" class="encounter" pos="1229,160,1629,810" />
+	<window data="encounter.enc_18_03_34_cultleaders_quarters@DD Curse of Strahd" class="encounter" pos="1144,169,1544,819" />
+	<window data="encounter.enc_18_03_35_reliquary@DD Curse of Strahd" class="encounter" pos="1236,150,1636,800" />
+	<window data="encounter.enc_18_03_36_prison@DD Curse of Strahd" class="encounter" pos="1269,299,1669,949" />
+	<window data="encounter.enc_18_03_37_portcullis@DD Curse of Strahd" class="encounter" pos="818,216,1218,866" />
+	<window data="encounter.enc_18_03_38_ritualchamber@DD Curse of Strahd" class="encounter" pos="1217,223,1617,873" />
+	<window data="encounter.enc_18_04endings@DD Curse of Strahd" class="encounter" pos="760,195,1160,845" />
+	<window data="encounter.enc__curseofstrahd_@DD Curse of Strahd" class="encounter" pos="760,195,1160,845" />
+	<window data="encounter.id-00006@DD Curse of Strahd" class="encounter" pos="760,195,1160,845" />
+	<window data="encounter.id-00007@DD Curse of Strahd" class="encounter" pos="760,195,1160,845" />
+	<window data="encounter.id-00008@DD Curse of Strahd" class="encounter" pos="760,195,1160,845" />
+	<window data="encounter.id-00010@DD Curse of Strahd" class="encounter" pos="59,296,459,946" />
+	<window data="encounter.id-00012@DD Curse of Strahd" class="encounter" pos="1244,255,1644,905" />
+	<window data="encounter.id-00015@DD Curse of Strahd" class="encounter" pos="1227,223,1627,873" />
+	<window data="encounter.id-00016@DD Curse of Strahd" class="encounter" pos="1363,178,1763,828" />
+	<window data="image" class="masterindex" pos="169,227,619,677" />
+	<window data="image.id-00004@DD Curse of Strahd" class="imagewindow" pos="157,0,1763,1040" />
+	<window data="image.id-00015@DD Curse of Strahd" class="imagewindow" pos="198,211,1076,1285" />
+	<window data="image.id-00021@DD Curse of Strahd" class="imagewindow" pos="463,0,1456,1040" />
+	<window data="image.id-00060@DD Curse of Strahd" class="imagewindow" pos="413,186,1188,1226" />
+	<window data="image.id-00235@DD Curse of Strahd" class="imagewindow" pos="798,263,1121,777" />
+	<window data="image.id-00237@DD Curse of Strahd" class="imagewindow" pos="798,263,1121,777" />
+	<window data="image.id-00239@DD Curse of Strahd" class="imagewindow" pos="774,242,1145,798" />
+	<window data="image.id-00258@DD Curse of Strahd" class="imagewindow" pos="651,232,1269,807" />
+	<window data="image.id-00275@DD Curse of Strahd" class="imagewindow" pos="737,309,1182,730" />
+	<window data="modifiers" class="modifiers" pos="710,345,1210,695" />
+	<window data="notes" class="masterindex" pos="342,229,792,679" />
+	<window data="npc" class="masterindex" pos="1051,261,1501,711" />
+	<window data="npc.id-00058@DD Curse of Strahd" class="npc" pos="730,245,1190,795" />
+	<window data="npc.id-00087@DD Curse of Strahd" class="npc" pos="730,245,1190,795" />
+	<window data="npc.id-00094@DD Curse of Strahd" class="npc" pos="730,245,1190,795" />
+	<window data="npc.id-00101@DD Curse of Strahd" class="npc" pos="730,245,1190,795" />
+	<window data="npc.id-00102@DD Curse of Strahd" class="npc" pos="730,245,1190,795" />
+	<window data="npc.id-00166@DD Curse of Strahd" class="npc" pos="730,245,1190,795" />
+	<window data="partysheet" class="partysheet_host" pos="560,270,1360,770" />
+	<window data="quest" class="masterindex" pos="735,295,1185,745" />
+	<window data="tables" class="masterindex" pos="735,295,1185,745" />
+	<window data="treasureparcels.id-00079@DD Curse of Strahd" class="treasureparcel" pos="710,345,1210,695" />
+	<window data="treasureparcels.id-00086@DD Curse of Strahd" class="treasureparcel" pos="710,345,1210,695" />
+	<window data="treasureparcels.id-00092@DD Curse of Strahd" class="treasureparcel" pos="710,345,1210,695" />
+
+	<image data="image.id-00015@DD Curse of Strahd" class="imagewindow" control="image" view="-133,-465" zoom="1.68" />
+	<image data="image.id-00021@DD Curse of Strahd" class="imagewindow" control="image" view="0,-226" zoom="1" />
+	<image data="image.id-00060@DD Curse of Strahd" class="imagewindow" control="image" view="-67,-619" zoom="2" />
+</windowstate>

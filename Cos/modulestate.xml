@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<modulestate version="3.3">
+	<module name="Animal Pogs">
+		<loaded />
+	</module>
+	<module name="Animal Tokens">
+		<loaded />
+	</module>
+	<module name="Calendars">
+		<loaded />
+	</module>
+	<module name="Character Pogs">
+		<loaded />
+	</module>
+	<module name="Character Tokens">
+		<loaded />
+	</module>
+	<module name="DD 5E Basic Rules - Player">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD Basic Rules - DM">
+		<loaded />
+	</module>
+	<module name="DD Curse of Strahd">
+		<loaded />
+	</module>
+	<module name="DD Curse of Strahd Players">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD PHB Deluxe">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD5E SRD Bestiary">
+		<loaded />
+	</module>
+	<module name="DD5E SRD Data">
+		<loaded />
+		<allow />
+	</module>
+	<module name="DD5E SRD Magic Items">
+		<loaded />
+	</module>
+	<module name="DOE: Alignment Graph Manual">
+		<allow />
+	</module>
+	<module name="DOE: CSG Manual">
+		<allow />
+	</module>
+	<module name="DOE: OLE Manual">
+		<allow />
+	</module>
+	<module name="DOE: Sound Manual">
+		<allow />
+	</module>
+	<module name="DOE: Weather Manual">
+		<allow />
+	</module>
+	<module name="Default Fumble and Critical Hit Tables">
+		<loaded />
+	</module>
+	<module name="FG Battle Maps">
+		<loaded />
+	</module>
+	<module name="Letter Tokens">
+		<loaded />
+	</module>
+	<module name="Monster Pogs">
+		<loaded />
+	</module>
+	<module name="Monster Tokens">
+		<loaded />
+	</module>
+</modulestate>

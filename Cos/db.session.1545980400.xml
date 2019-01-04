@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<root version="3.3" release="8|CoreRPG:4">
+	<calendar>
+		<public />
+		<base>
+			<public />
+		</base>
+	</calendar>
+	<charsheet>
+		<id-00001>
+			<abilities>
+				<charisma>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<backgroundlink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</backgroundlink>
+			<classes>
+			</classes>
+			<defenses>
+				<ac>
+					<armor type="number">0</armor>
+					<misc type="number">0</misc>
+					<prof type="number">1</prof>
+					<shield type="number">0</shield>
+					<temporary type="number">0</temporary>
+					<total type="number">10</total>
+				</ac>
+			</defenses>
+			<hp>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+				<wounds type="number">0</wounds>
+			</hp>
+			<initiative>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</initiative>
+			<level type="number">0</level>
+			<name type="string">Brandon</name>
+			<perception type="number">10</perception>
+			<perceptionmodifier type="number">0</perceptionmodifier>
+			<profbonus type="number">2</profbonus>
+			<racelink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</racelink>
+			<skilllist>
+				<id-00001>
+					<name type="string">Perception</name>
+					<stat type="string">wisdom</stat>
+				</id-00001>
+			</skilllist>
+			<speed>
+				<armor type="number">0</armor>
+				<base type="number">0</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</speed>
+			<token type="token">portrait_id-00001_token</token>
+		</id-00001>
+		<id-00002>
+			<abilities>
+				<charisma>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<backgroundlink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</backgroundlink>
+			<classes>
+			</classes>
+			<defenses>
+				<ac>
+					<armor type="number">0</armor>
+					<misc type="number">0</misc>
+					<prof type="number">1</prof>
+					<shield type="number">0</shield>
+					<temporary type="number">0</temporary>
+					<total type="number">10</total>
+				</ac>
+			</defenses>
+			<hp>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+				<wounds type="number">0</wounds>
+			</hp>
+			<initiative>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</initiative>
+			<level type="number">0</level>
+			<name type="string">Tim</name>
+			<perception type="number">10</perception>
+			<perceptionmodifier type="number">0</perceptionmodifier>
+			<profbonus type="number">2</profbonus>
+			<racelink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</racelink>
+			<skilllist>
+				<id-00001>
+					<name type="string">Perception</name>
+					<stat type="string">wisdom</stat>
+				</id-00001>
+			</skilllist>
+			<speed>
+				<armor type="number">0</armor>
+				<base type="number">0</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</speed>
+			<token type="token">portrait_id-00002_token</token>
+		</id-00002>
+		<id-00003>
+			<abilities>
+				<charisma>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</charisma>
+				<constitution>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</constitution>
+				<dexterity>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</dexterity>
+				<intelligence>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</intelligence>
+				<strength>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</strength>
+				<wisdom>
+					<bonus type="number">0</bonus>
+					<save type="number">0</save>
+					<savemodifier type="number">0</savemodifier>
+					<saveprof type="number">0</saveprof>
+					<score type="number">10</score>
+				</wisdom>
+			</abilities>
+			<backgroundlink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</backgroundlink>
+			<classes>
+			</classes>
+			<defenses>
+				<ac>
+					<armor type="number">0</armor>
+					<misc type="number">0</misc>
+					<prof type="number">1</prof>
+					<shield type="number">0</shield>
+					<temporary type="number">0</temporary>
+					<total type="number">10</total>
+				</ac>
+			</defenses>
+			<hp>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+				<wounds type="number">0</wounds>
+			</hp>
+			<initiative>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</initiative>
+			<level type="number">0</level>
+			<name type="string">Chris</name>
+			<perception type="number">10</perception>
+			<perceptionmodifier type="number">0</perceptionmodifier>
+			<profbonus type="number">2</profbonus>
+			<racelink type="windowreference">
+				<class></class>
+				<recordname></recordname>
+			</racelink>
+			<skilllist>
+				<id-00001>
+					<name type="string">Perception</name>
+					<stat type="string">wisdom</stat>
+				</id-00001>
+			</skilllist>
+			<speed>
+				<armor type="number">0</armor>
+				<base type="number">0</base>
+				<misc type="number">0</misc>
+				<temporary type="number">0</temporary>
+				<total type="number">0</total>
+			</speed>
+			<token type="token">portrait_id-00003_token</token>
+		</id-00003>
+	</charsheet>
+	<combattracker>
+		<public />
+		<list>
+			<public />
+			<id-00001>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</charisma>
+					<constitution>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</intelligence>
+					<strength>
+						<public />
+						<bonus type="number">2</bonus>
+						<score type="number">14</score>
+					</strength>
+					<wisdom>
+						<public />
+						<bonus type="number">0</bonus>
+						<score type="number">10</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">18</ac>
+				<actext type="string">(natural armor)</actext>
+				<actions>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The armor makes two melee attacks.</desc>
+						<name type="string">Multiattack</name>
+						<value type="string">Multiattack</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.</desc>
+						<name type="string">Slam</name>
+						<value type="string">Slam [M] [ATK: +4] [DMG: 1d6+2 bludgeoning]</value>
+					</id-00002>
+				</actions>
+				<active type="number">0</active>
+				<alignment type="string">unaligned</alignment>
+				<conditionimmunities type="string">blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned</conditionimmunities>
+				<cr type="string">1</cr>
+				<damageimmunities type="string">poison, psychic</damageimmunities>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+					<id-00001>
+						<public />
+						<duration type="number">0</duration>
+						<init type="number">0</init>
+						<isactive type="number">1</isactive>
+						<isgmonly type="number">1</isgmonly>
+						<label type="string">IMMUNE: poison, psychic; IMMUNE: blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned</label>
+					</id-00001>
+				</effects>
+				<friendfoe type="string">foe</friendfoe>
+				<hd type="string">(6d8 + 6)</hd>
+				<hp type="number">33</hp>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">28</hptotal>
+				<init type="number">0</init>
+				<initresult type="number">13</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<isidentified type="number">1</isidentified>
+				<lairactions>
+					<public />
+				</lairactions>
+				<languages type="string">-</languages>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>npc</class>
+					<recordname></recordname>
+				</link>
+				<locked type="number">1</locked>
+				<name type="string">Animated Armor</name>
+				<nonid_name type="string">Unidentified Creature</nonid_name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<senses type="string">blindsight 60 ft. (blind beyond this radius), passive Perception 6</senses>
+				<size type="string">Medium</size>
+				<sourcelink type="windowreference">
+					<class>npc</class>
+					<recordname>npc.id-00087@DD Curse of Strahd</recordname>
+				</sourcelink>
+				<space type="number">5</space>
+				<speed type="string">25 ft.</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<text type="formattedtext">
+					<h>Animated Objects</h>
+					<p>Animated objects are crafted with potent magic to follow the commands of their creators. When not commanded, they follow the last order they received to the best of their ability, and can act independently to fulfill simple instructions. Some animated objects (including many of those created in the Feywild) might converse fluently or adopt a persona, but most are simple automatons.</p>
+					<p><b><i>Constructed Nature. </i></b>An animated object doesn't require air, food, drink, or sleep. The magic that animates an object is dispelled when the construct drops to 0 hit points. An animated object reduced to 0 hit points becomes inanimate and is too damaged to be of much use or value to anyone.</p>
+					<h>Animated Armor</h>
+					<linklist>
+						<link class="imagewindow" recordname="image.id-00219@DD Curse of Strahd">Image: Animated Armor</link>
+					</linklist>
+					<p>This empty steel shell clamors as it moves, heavy plates banging and grinding against one another like the vengeful spirit of a fallen knight. Ponderous but persistent, this magical guardian is almost always a suit of plate armor.</p>
+					<p>To add to its menace, animated armor is frequently enchanted with scripted speech, so the armor can utter warnings, demand passwords, or deliver riddles. Rare suits of animated armor are able to carry on an actual conversation.</p>
+				</text>
+				<token type="token">tokens/campaign/animatedarmor.png@DD Curse of Strahd</token>
+				<tokenrefid type="string">2</tokenrefid>
+				<tokenrefnode type="string">image.id-00015.image@DD Curse of Strahd</tokenrefnode>
+				<tokenvis type="number">1</tokenvis>
+				<traits>
+					<public />
+					<id-00001>
+						<public />
+						<desc type="string">The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</desc>
+						<name type="string">Antimagic Susceptibility</name>
+						<value type="string">Antimagic susceptibility [EFF: Incapacitated] [SAVEVS: constitution 0] [EFF: Unconscious (D:1 MIN)]</value>
+					</id-00001>
+					<id-00002>
+						<public />
+						<desc type="string">While the armor remains motionless, it is indistinguishable from a normal suit of armor.</desc>
+						<name type="string">False Appearance</name>
+						<value type="string">False appearance</value>
+					</id-00002>
+				</traits>
+				<type type="string">construct</type>
+				<wounds type="number">0</wounds>
+				<xp type="number">200</xp>
+			</id-00001>
+			<id-00002>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<score type="number">10</score>
+					</charisma>
+					<constitution>
+						<public />
+						<score type="number">10</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<score type="number">10</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<score type="number">10</score>
+					</intelligence>
+					<strength>
+						<public />
+						<score type="number">10</score>
+					</strength>
+					<wisdom>
+						<public />
+						<score type="number">10</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">10</ac>
+				<actions>
+					<public />
+				</actions>
+				<active type="number">0</active>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">friend</friendfoe>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">0</hptotal>
+				<init type="number">0</init>
+				<initresult type="number">14</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<isidentified type="number">0</isidentified>
+				<lairactions>
+					<public />
+				</lairactions>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>charsheet</class>
+					<recordname>charsheet.id-00001</recordname>
+				</link>
+				<name type="string">Brandon</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<space type="number">5</space>
+				<speed type="string">0</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<token type="token">portrait_id-00001_token</token>
+				<tokenrefid type="string">3</tokenrefid>
+				<tokenrefnode type="string">image.id-00015.image@DD Curse of Strahd</tokenrefnode>
+				<tokenvis type="number">0</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<wounds type="number">0</wounds>
+			</id-00002>
+			<id-00003>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<score type="number">10</score>
+					</charisma>
+					<constitution>
+						<public />
+						<score type="number">10</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<score type="number">10</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<score type="number">10</score>
+					</intelligence>
+					<strength>
+						<public />
+						<score type="number">10</score>
+					</strength>
+					<wisdom>
+						<public />
+						<score type="number">10</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">10</ac>
+				<actions>
+					<public />
+				</actions>
+				<active type="number">0</active>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">friend</friendfoe>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">0</hptotal>
+				<init type="number">0</init>
+				<initresult type="number">2</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<isidentified type="number">0</isidentified>
+				<lairactions>
+					<public />
+				</lairactions>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>charsheet</class>
+					<recordname>charsheet.id-00002</recordname>
+				</link>
+				<name type="string">Tim</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<space type="number">5</space>
+				<speed type="string">0</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<token type="token">portrait_id-00002_token</token>
+				<tokenrefid type="string">4</tokenrefid>
+				<tokenrefnode type="string">image.id-00015.image@DD Curse of Strahd</tokenrefnode>
+				<tokenvis type="number">0</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<wounds type="number">0</wounds>
+			</id-00003>
+			<id-00004>
+				<public />
+				<abilities>
+					<public />
+					<charisma>
+						<public />
+						<score type="number">10</score>
+					</charisma>
+					<constitution>
+						<public />
+						<score type="number">10</score>
+					</constitution>
+					<dexterity>
+						<public />
+						<score type="number">10</score>
+					</dexterity>
+					<intelligence>
+						<public />
+						<score type="number">10</score>
+					</intelligence>
+					<strength>
+						<public />
+						<score type="number">10</score>
+					</strength>
+					<wisdom>
+						<public />
+						<score type="number">10</score>
+					</wisdom>
+				</abilities>
+				<ac type="number">10</ac>
+				<actions>
+					<public />
+				</actions>
+				<active type="number">0</active>
+				<deathsavefail type="number">0</deathsavefail>
+				<deathsavesuccess type="number">0</deathsavesuccess>
+				<effects>
+					<public />
+				</effects>
+				<friendfoe type="string">friend</friendfoe>
+				<hptemp type="number">0</hptemp>
+				<hptotal type="number">0</hptotal>
+				<init type="number">0</init>
+				<initresult type="number">11</initresult>
+				<innatespells>
+					<public />
+				</innatespells>
+				<isidentified type="number">0</isidentified>
+				<lairactions>
+					<public />
+				</lairactions>
+				<legendaryactions>
+					<public />
+				</legendaryactions>
+				<link type="windowreference">
+					<class>charsheet</class>
+					<recordname>charsheet.id-00003</recordname>
+				</link>
+				<name type="string">Chris</name>
+				<reach type="number">5</reach>
+				<reaction type="number">0</reaction>
+				<reactions>
+					<public />
+				</reactions>
+				<space type="number">5</space>
+				<speed type="string">0</speed>
+				<spells>
+					<public />
+				</spells>
+				<status type="string">Healthy</status>
+				<token type="token">portrait_id-00003_token</token>
+				<tokenrefid type="string">5</tokenrefid>
+				<tokenrefnode type="string">image.id-00015.image@DD Curse of Strahd</tokenrefnode>
+				<tokenvis type="number">0</tokenvis>
+				<traits>
+					<public />
+				</traits>
+				<wounds type="number">0</wounds>
+			</id-00004>
+		</list>
+		<round type="number">0</round>
+	</combattracker>
+	<currencies>
+		<public />
+		<id-00001>
+			<public />
+			<name type="string">PP</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<name type="string">GP</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<name type="string">EP</name>
+		</id-00003>
+		<id-00004>
+			<public />
+			<name type="string">SP</name>
+		</id-00004>
+		<id-00005>
+			<public />
+			<name type="string">CP</name>
+		</id-00005>
+	</currencies>
+	<effects>
+		<public />
+	</effects>
+	<encounter>
+	</encounter>
+	<image>
+	</image>
+	<languages>
+		<public />
+		<id-00001>
+			<public />
+			<font type="string">Primordial</font>
+			<name type="string">Primordial</name>
+		</id-00001>
+		<id-00002>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Aquan</name>
+		</id-00002>
+		<id-00003>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Elvish</name>
+		</id-00003>
+		<id-00004>
+			<public />
+			<font type="string">Celestial</font>
+			<name type="string">Celestial</name>
+		</id-00004>
+		<id-00005>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Infernal</name>
+		</id-00005>
+		<id-00006>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Gnomish</name>
+		</id-00006>
+		<id-00007>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Undercommon</name>
+		</id-00007>
+		<id-00008>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Draconic</name>
+		</id-00008>
+		<id-00009>
+			<public />
+			<font type="string">Infernal</font>
+			<name type="string">Abyssal</name>
+		</id-00009>
+		<id-00010>
+			<public />
+			<font type="string">Elven</font>
+			<name type="string">Sylvan</name>
+		</id-00010>
+		<id-00011>
+			<public />
+			<name type="string">Common</name>
+		</id-00011>
+		<id-00012>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Terran</name>
+		</id-00012>
+		<id-00013>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Ignan</name>
+		</id-00013>
+		<id-00014>
+			<public />
+			<name type="string">Deep Speech</name>
+		</id-00014>
+		<id-00015>
+			<public />
+			<font type="string">Draconic</font>
+			<name type="string">Auran</name>
+		</id-00015>
+		<id-00016>
+			<public />
+			<name type="string">Halfling</name>
+		</id-00016>
+		<id-00017>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Orc</name>
+		</id-00017>
+		<id-00018>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Giant</name>
+		</id-00018>
+		<id-00019>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Dwarvish</name>
+		</id-00019>
+		<id-00020>
+			<public />
+			<font type="string">Dwarven</font>
+			<name type="string">Goblin</name>
+		</id-00020>
+	</languages>
+	<modifiers>
+		<public />
+	</modifiers>
+	<npc>
+	</npc>
+	<options>
+		<public />
+		<HRNH type="string">random</HRNH>
+		<INIT type="string">on</INIT>
+	</options>
+	<partysheet>
+		<public />
+		<bonus type="number">0</bonus>
+		<checkdc type="number">0</checkdc>
+		<checkselected type="string">Strength</checkselected>
+		<hiderollresults type="number">0</hiderollresults>
+		<partyinformation>
+			<public />
+		</partyinformation>
+		<savedc type="number">0</savedc>
+		<saveselected type="string">Strength</saveselected>
+		<skilldc type="number">0</skilldc>
+	</partysheet>
+	<quest>
+	</quest>
+</root>
